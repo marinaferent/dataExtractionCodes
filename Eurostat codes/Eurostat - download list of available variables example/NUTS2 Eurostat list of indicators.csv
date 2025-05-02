@@ -1,0 +1,504 @@
+"","title","code","type","last.update.of.data","last.table.structure.change","data.start","data.end","values","hierarchy"
+"1","Key farm variables: area, livestock (LSU), labour force and standard output (SO) by agricultural size of farm (UAA), legal status of holding and NUTS 2 region","ef_kvaareg","dataset","16.01.2017","10.01.2024","2005","2013",225387,7
+"2","Key variables: area, livestock (LSU), labour force and standard output (SO) by economic size of farm (SO in Euro), legal status of holding and NUTS 2 region","ef_kvecsleg","dataset","16.01.2017","10.01.2024","2005","2013",291960,7
+"3","Key variables: area, livestock (LSU), labour force and standard output (SO) by type of farming (2-digit) and NUTS 2 region","ef_kvftreg","dataset","16.01.2017","10.01.2024","2005","2013",215317,7
+"4","Land use: number of farms and areas of different crops by agricultural size of farm (UAA) and NUTS 2 region","ef_oluaareg","dataset","16.01.2017","10.01.2024","2005","2013",1595010,7
+"5","Land use: number of farms and areas of different crops by economic size of farm (SO in Euro) and NUTS 2 region","ef_oluecsreg","dataset","16.01.2017","10.01.2024","2005","2013",1866130,7
+"6","Permanent crops: number of farms and areas by size of permanent crop area and NUTS 2 region","ef_popermreg","dataset","16.01.2017","10.01.2024","2005","2013",427965,7
+"7","Irrigation: number of farms, areas and equipment by size of irrigated area and NUTS 2 region","ef_poirrig","dataset","19.04.2018","10.01.2024","2005","2013",210039,7
+"8","Livestock: number of farms and heads of animals of different types by agricultural size of farm (UAA) and NUTS 2 region","ef_olsaareg","dataset","16.01.2017","10.01.2024","2005","2013",595241,7
+"9","Livestock: number of farms and heads of animals by livestock units (LSU) of farm and NUTS 2 region","ef_olslsureg","dataset","16.01.2017","10.01.2024","2005","2013",589665,7
+"10","Livestock: number of farms and heads of animals by economic size of farm (SO in Euro) and NUTS 2 region","ef_olsecsreg","dataset","16.01.2017","10.01.2024","2005","2013",695956,7
+"11","Labour force: number of persons and farm work (AWU) by sex of workers and NUTS 2 region","ef_olfreg","dataset","16.01.2017","10.01.2024","2005","2013",38800,7
+"12","Organic farming: number of farms, areas with different crops and heads of different types of animals by agricultural size of farm (UAA) and NUTS 2 region","ef_mporganic","dataset","16.01.2017","10.01.2024","2003","2013",320160,7
+"13","Type of tenure: number of farms and areas by agricultural size of farm (UAA) and NUTS 2 region","ef_mptenure","dataset","16.01.2017","10.01.2024","2005","2013",92614,7
+"14","Type of tenure: number of farms and areas by economic size of farm (SO in Euro) and NUTS 2 region","ef_mptenurecs","dataset","16.01.2017","10.01.2024","2005","2013",109368,7
+"15","Key variables by legal status of holding, size of farm (UAA) and NUTS 2 region","ef_ov_kvaa","dataset","27.03.2009","21.12.2023","1990","2007",250844,7
+"16","Key variables by type of farming (2-digit) and NUTS 2 region","ef_ov_kvftreg","dataset","27.03.2009","21.12.2023","2000","2007",133474,7
+"17","Farmland: number of farms and areas by size of farm (UAA) and NUTS 2 region","ef_lu_ovcropaa","dataset","27.03.2009","21.12.2023","1990","2007",1969784,7
+"18","Farmland: number of farms and areas by economic size of farm (ESU) and NUTS 2 region","ef_lu_ovcropesu","dataset","27.03.2009","21.12.2023","1990","2007",1959788,7
+"19","Permanent crops: number of farms and areas by size of farm (UAA), size of permanent crop area and NUTS 2 region","ef_lu_pcreg","dataset","27.03.2009","21.12.2023","1990","2007",492194,7
+"20","Irrigation: number of farms, areas and equipment by size of farm (UAA) and NUTS 2 region","ef_lu_ofirrig","dataset","27.03.2009","21.12.2023","1990","2007",21949,7
+"21","Livestock: number of farms and heads by size of farm (UAA) and NUTS 2 region","ef_ls_ovaareg","dataset","27.03.2009","21.12.2023","1990","2007",761128,7
+"22","Livestock: number of farms and heads by livestock units (LSU) of farm and NUTS 2 region","ef_ls_ovlsureg","dataset","27.03.2009","21.12.2023","1990","2007",759761,7
+"23","Livestock: number of farms and heads by economic size of farm (ESU) and NUTS 2 region","ef_ls_ovesu","dataset","27.03.2009","21.12.2023","1990","2007",757142,7
+"24","Organic farming: selected variables by size of farm (UAA) and NUTS 2 region","ef_so_mporg","dataset","17.04.2009","21.12.2023","2000","2007",98860,7
+"25","Type of tenure: number of farms and areas by size of farm (UAA) and NUTS 2 region","ef_so_mptenure","dataset","27.03.2009","21.12.2023","1990","2007",111860,7
+"26","Labour force: number of persons and farm work (AWU) by sex of worker, category of worker, legal status of holding, size of farm (UAA) and NUTS 2 region","ef_so_lfaa","dataset","14.04.2009","21.12.2023","1990","2007",1714420,7
+"27","Labour force: number of persons and farm work (AWU) by sex of worker, category of worker, legal status of holding, economic size of farm (ESU) and NUTS 2 region","ef_so_lfesu","dataset","14.04.2009","21.12.2023","1990","2007",1676077,7
+"28","Animal populations by NUTS 2 region","agr_r_animal","dataset","17.10.2024","09.09.2024","1977","2024",422132,5
+"29","Production of cow's milk on farms by NUTS 2 region","agr_r_milkpr","dataset","07.10.2024","07.10.2024","1995","2023",11226,5
+"30","Economic accounts for agriculture by NUTS 2 region","agr_r_accts","dataset","22.02.2024","02.07.2024","1980","2022",4232840,5
+"31","Population on 1 January by age, sex and NUTS 2 region","demo_r_d2jan","dataset","05.11.2024","02.02.2024","1990","2023",4407435,5
+"32","Population on 1 January by age group, sex and NUTS 2 region","demo_r_pjangroup","dataset","05.11.2024","02.02.2024","1990","2023",969191,5
+"33","Population structure indicators by NUTS 2 region","demo_r_pjanind2","dataset","05.11.2024","12.02.2024","1990","2023",690593,5
+"34","Live births by mother's age and NUTS 2 region","demo_r_fagec","dataset","03.09.2024","22.02.2024","1990","2022",509535,5
+"35","Fertility rates by age and NUTS 2 region","demo_r_frate2","dataset","03.09.2024","22.02.2024","1990","2022",462529,5
+"36","Fertility indicators by NUTS 2 region","demo_r_find2","dataset","03.09.2024","22.02.2024","1990","2022",38194,5
+"37","Deaths by age, sex and NUTS 2 region","demo_r_magec","dataset","05.09.2024","14.03.2024","1990","2022",3980520,5
+"38","Infant mortality by NUTS 2 region","demo_r_minf","dataset","05.09.2024","14.03.2024","1990","2022",12169,5
+"39","Infant mortality rates by NUTS 2 region","demo_r_minfind","dataset","31.07.2024","14.03.2024","1990","2022",12746,5
+"40","Life table by age, sex and NUTS 2 region","demo_r_mlife","dataset","05.09.2024","14.03.2024","1990","2022",25135126,5
+"41","Life expectancy by age, sex and NUTS 2 region","demo_r_mlifexp","dataset","05.09.2024","07.03.2024","1990","2022",3218021,5
+"42","Population by current activity status, educational attainment level and NUTS 2 region","cens_11aed_r2","dataset","01.04.2019","10.01.2024","2011","2011",2425928,7
+"43","Population by current activity status, occupation and NUTS 2 region","cens_11ao_r2","dataset","26.08.2015","10.01.2024","2011","2011",3172833,7
+"44","Population by current activity status, NACE Rev. 2 activity and NUTS 2 region","cens_11an_r2","dataset","23.07.2015","31.01.2024","2011","2011",3110101,7
+"45","Population by status in employment, occupation and NUTS 2 region","cens_11empo_r2","dataset","01.04.2019","10.01.2024","2011","2011",3675197,7
+"46","Population by status in employment, NACE Rev. 2 activity and NUTS 2 region","cens_11empn_r2","dataset","22.07.2015","31.01.2024","2011","2011",3694015,7
+"47","Population by group of citizenship, occupation and NUTS 2 region","cens_11ctzo_r2","dataset","26.08.2015","10.01.2024","2011","2011",789038,7
+"48","Population by group of country of birth, educational attainment level and NUTS 2 region","cens_11cobe_r2","dataset","26.08.2015","10.01.2024","2011","2011",705614,7
+"49","Population by group of country of birth, current activity status and NUTS 2 region","cens_11coba_r2","dataset","26.08.2015","10.01.2024","2011","2011",424630,7
+"50","Population by group of country of birth, occupation and NUTS 2 region","cens_11cobo_r2","dataset","26.08.2015","10.01.2024","2011","2011",788639,7
+"51","Population by period of arrival in the country, country of birth and NUTS 2 region","cens_11arco_r2","dataset","26.08.2015","10.01.2024","2011","2011",111921,7
+"52","Private households by type, tenure status and NUTS 2 region","cens_11htts_r2","dataset","23.04.2015","10.01.2024","2011","2011",57341,6
+"53","Population by housing arrangement and NUTS 2 region","cens_11hou_r2","dataset","26.08.2015","10.01.2024","2011","2011",76991,6
+"54","Gross domestic product (GDP) at current market prices by NUTS 2 region","nama_10r_2gdp","dataset","19.02.2024","19.02.2024","2000","2022",69176,5
+"55","Gross domestic product (GDP) and Gross value added (GVA) in volume by NUTS 2 region","nama_10r_2gvagr","dataset","19.02.2024","19.02.2024","1995","2022",39297,5
+"56","Gross fixed capital formation by NUTS 2 region","nama_10r_2gfcf","dataset","19.02.2024","19.02.2024","1995","2022",267294,5
+"57","Compensation of employees by NUTS 2 region","nama_10r_2coe","dataset","19.02.2024","19.02.2024","1995","2022",270976,5
+"58","Employment (thousand hours worked) by NUTS 2 region","nama_10r_2emhrw","dataset","08.08.2024","19.02.2024","1995","2022",260118,5
+"59","Income of households by NUTS 2 region","nama_10r_2hhinc","dataset","19.02.2024","19.02.2024","1995","2022",266524,5
+"60","Pupils enrolled in early childhood education by sex and NUTS 2 region","educ_uoe_enrp03","dataset","26.07.2024","23.05.2024","2013","2022",34740,5
+"61","Pupils enrolled in primary education by sex and NUTS 2 region","educ_uoe_enrp06","dataset","26.07.2024","23.05.2024","2013","2022",13395,5
+"62","Pupils enrolled in lower-secondary education by programme orientation, sex and NUTS 2 region","educ_uoe_enrs03","dataset","26.07.2024","23.05.2024","2013","2022",39936,5
+"63","Pupils enrolled in upper secondary education by programme orientation, sex and NUTS 2 region","educ_uoe_enrs06","dataset","26.07.2024","23.05.2024","2013","2022",40176,5
+"64","Pupils enrolled in post-secondary non-tertiary education by programme orientation, sex and NUTS 2 region","educ_uoe_enrs09","dataset","26.07.2024","23.05.2024","2013","2022",39948,5
+"65","Ratio of the proportion of tertiary students over the proportion of the population by NUTS 1 and NUTS 2 region","educ_uoe_enrt05","dataset","26.07.2024","23.05.2024","2013","2022",3864,5
+"66","Students enrolled in tertiary education by education level, programme orientation, sex and NUTS 2 region","educ_uoe_enrt06","dataset","26.07.2024","23.05.2024","2013","2022",93176,5
+"67","Pupils and students enrolled by education level, sex and NUTS 2 region","educ_uoe_enra11","dataset","26.07.2024","23.05.2024","2013","2022",133536,5
+"68","Pupils and students enrolled by sex, age and NUTS 2 region","educ_uoe_enra12","dataset","26.07.2024","23.05.2024","2013","2022",450351,5
+"69","Distribution of pupils and students enrolled in general and vocational programmes by education level and NUTS 2 region","educ_uoe_enra13","dataset","26.07.2024","23.05.2024","2013","2022",32767,5
+"70","Pupils from age 4 to the starting age of compulsory education at primary level by NUTS 2 region - % of the population of the corresponding age","educ_uoe_enra17","dataset","26.07.2024","23.05.2024","2013","2022",3952,5
+"71","Pupils from age 3 to the starting age of compulsory education at primary level by NUTS 2 region - % of the population of the corresponding age","educ_uoe_enra22","dataset","26.07.2024","23.05.2024","2013","2022",3595,5
+"72","Students by level of education, orientation, sex and NUTS 2 region","educ_renrlrg1","dataset","15.03.2019","10.01.2024","1998","2012",190546,5
+"73","Students by age, sex and NUTS 2 region","educ_renrlrg3","dataset","15.03.2019","10.01.2024","1998","2012",404250,5
+"74","Education indicators by NUTS 2 region","educ_regind","dataset","15.03.2019","10.01.2024","1998","2012",43983,5
+"75","Participation rate in education and training (last 4 weeks) by NUTS 2 region","trng_lfse_04","dataset","12.09.2024","24.04.2024","2000","2023",31961,5
+"76","Population by educational attainment level, sex and NUTS 2 region (%)","edat_lfse_04","dataset","12.09.2024","24.04.2024","2000","2023",612157,5
+"77","Early leavers from education and training by sex and NUTS 2 region","edat_lfse_16","dataset","12.09.2024","24.04.2024","2000","2023",32169,5
+"78","Young people neither in employment nor in education and training by sex and NUTS 2 region (NEET rates)","edat_lfse_22","dataset","12.09.2024","24.04.2024","2000","2023",128547,5
+"79","Employment rates of young people not in education and training by sex, educational attainment level, years since completion of highest level of education and NUTS 2 region","edat_lfse_33","dataset","12.09.2024","24.04.2024","2000","2023",3852642,5
+"80","R&D personnel and researchers by sector of performance, sex and NUTS 2 region","rd_p_persreg","dataset","25.09.2024","24.09.2024","1980","2022",572111,5
+"81","GERD by sector of performance and NUTS 2 region","rd_e_gerdreg","dataset","30.09.2024","30.09.2024","1980","2022",282069,5
+"82","Employment in technology and knowledge-intensive sectors by NUTS 2 region and sex (1994-2008, NACE Rev. 1.1)","htec_emp_reg","dataset","15.02.2023","10.01.2024","1999","2008",654416,5
+"83","Employment in technology and knowledge-intensive sectors by NUTS 2 region and sex (from 2008 onwards, NACE Rev. 2)","htec_emp_reg2","dataset","12.09.2024","24.04.2024","2008","2023",1400448,5
+"84","HRST by category and NUTS 2 region","hrst_st_rcat","dataset","12.09.2024","24.04.2024","1999","2023",167568,5
+"85","SBS data by NUTS 2 region and NACE Rev. 2 (2008-2020)","sbs_r_nuts06_r2","dataset","01.03.2024","10.01.2024","2008","2020",2139869,4
+"86","Multiannual statistics for distributive trades (NACE Rev. 2, G) by NUTS 2 region (2009-2014)","sbs_r_3k_my_r2","dataset","24.05.2019","10.01.2024","2009","2014",26758,4
+"87","SBS data by NUTS 2 region (NUTS 2006) and NACE Rev. 1.1 (1995-2007)","sbs_r_nuts03","dataset","27.10.2022","23.09.2023","1995","2007",1793482,4
+"88","Number of local units, persons employed and wages and salaries by NUTS 2 region (1997-2007)","sbs_cre_rreg","dataset","06.10.2010","07.06.2024","1997","2007",4070,4
+"89","Multi yearly statistics by NUTS 2 region (NUTS 2006) (1999-2004)","sbs_r_3f_my","dataset","10.09.2009","08.02.2021","1999","2004",8079,4
+"90","Causes of death - crude death rate by NUTS 2 region of residence","hlth_cd_acdr2","dataset","25.04.2024","25.03.2024","2011","2021",6549928,5
+"91","Causes of death - standardised death rate by NUTS 2 region of residence","hlth_cd_asdr2","dataset","25.04.2024","25.03.2024","2011","2021",3830826,5
+"92","Causes of death - deaths by NUTS 2 region of residence and occurrence, 3 year average","hlth_cd_yro","dataset","26.04.2024","25.03.2024","2013","2021",98209349,5
+"93","Causes of death - standardised death rate by NUTS 2 region of residence, 3 year average","hlth_cd_ysdr2","dataset","26.04.2024","25.03.2024","2013","2021",2962242,5
+"94","Causes of death - crude death rate by NUTS 2 region of residence, 3 year average","hlth_cd_ycdr2","dataset","26.04.2024","25.03.2024","2013","2021",29763194,5
+"95","Causes of death - years and potential years of life lost by NUTS 2 region of residence, 3 year average","hlth_cd_ypyll","dataset","26.04.2024","25.03.2024","2013","2021",12219,5
+"96","Causes of death - infant mortality by NUTS 2 region of residence, 3 year average","hlth_cd_yinfr","dataset","26.04.2024","25.03.2024","2013","2021",4537933,5
+"97","Causes of death - infant mortality by NUTS 2 region of occurrence, 3 year average","hlth_cd_yinfo","dataset","26.04.2024","25.03.2024","2013","2021",7895010,5
+"98","Peri-neonatal mortality by age of mother and parity, by NUTS 2 region of residence and occurrence, 3 year average","hlth_cd_yperro","dataset","26.04.2024","25.03.2024","2013","2021",992547,5
+"99","Fetal, peri- and neonatal mortality rates by NUTS 2 region of occurrence, 3 year average","hlth_cd_yperrto","dataset","26.04.2024","25.03.2024","2013","2021",33765,5
+"100","Hospital discharges by diagnosis and NUTS 2 region, in-patients, total number - total","hlth_co_disch1t","dataset","21.11.2023","10.01.2024","2000","2021",11490302,5
+"101","Hospital discharges by diagnosis and NUTS 2 region, in-patients, total number - males","hlth_co_disch1m","dataset","21.11.2023","10.01.2024","2000","2021",10313010,5
+"102","Hospital discharges by diagnosis, NUTS 2 region, in-patients and total number - females","hlth_co_disch1f","dataset","21.11.2023","10.01.2024","2000","2021",11233053,5
+"103","Hospital discharges by diagnosis and NUTS 2 region, in-patients, per 100 000 inhabitants - total","hlth_co_disch2t","dataset","21.11.2023","10.01.2024","2000","2021",10736776,5
+"104","Hospital discharges by diagnosis and NUTS 2 region, in-patients, per 100 000 inhabitants - males","hlth_co_disch2m","dataset","21.11.2023","10.01.2024","2000","2021",9638145,5
+"105","Hospital discharges by diagnosis and NUTS 2 region, in-patients, per 100 000 inhabitants - females","hlth_co_disch2f","dataset","21.11.2023","10.01.2024","2000","2021",10498288,5
+"106","Hospital discharges by diagnosis and NUTS 2 region, day cases, total number - total","hlth_co_disch3t","dataset","21.11.2023","10.01.2024","2000","2021",10569994,5
+"107","Hospital discharges by diagnosis and NUTS 2 region, day cases, total number - males","hlth_co_disch3m","dataset","21.11.2023","10.01.2024","2000","2021",9478192,5
+"108","Hospital discharges by diagnosis and NUTS 2 region, day cases, total number - females","hlth_co_disch3f","dataset","21.11.2023","10.01.2024","2000","2021",10323745,5
+"109","Hospital discharges by diagnosis and NUTS 2 region, day cases, per 100 000 inhabitants - total","hlth_co_disch4t","dataset","21.11.2023","10.01.2024","2000","2021",9876996,5
+"110","Hospital discharges by diagnosis and NUTS 2 region, day cases, per 100 000 inhabitants - males","hlth_co_disch4m","dataset","21.11.2023","10.01.2024","2000","2021",8857013,5
+"111","Hospital discharges by diagnosis and NUTS 2 region, day cases, per 100 000 inhabitants - females","hlth_co_disch4f","dataset","21.11.2023","10.01.2024","2000","2021",9664091,5
+"112","In-patient average length of stay (days) by NUTS 2 region - total","hlth_co_inpstt","dataset","21.11.2023","10.01.2024","1999","2021",9503589,5
+"113","In-patient average length of stay (days) by NUTS 2 region - males","hlth_co_inpstm","dataset","21.11.2023","10.01.2024","1999","2021",8473961,5
+"114","In-patient average length of stay (days) by NUTS 2 region - females","hlth_co_inpstf","dataset","21.11.2023","10.01.2024","1999","2021",8954435,5
+"115","Hospital days of in-patients by NUTS 2 region - total","hlth_co_hosdayt","dataset","21.11.2023","10.01.2024","1999","2021",11483579,5
+"116","Hospital days of in-patients by NUTS 2 region - males","hlth_co_hosdaym","dataset","21.11.2023","10.01.2024","1999","2021",10299265,5
+"117","Hospital days of in-patients by NUTS 2 region - females","hlth_co_hosdayf","dataset","21.11.2023","10.01.2024","1999","2021",11216989,5
+"118","Available beds in hospitals by NUTS 2 region","hlth_rs_bdsrg2","dataset","03.09.2024","25.07.2024","1993","2022",16926,5
+"119","Prevalence of disability by sex, economic activity (NACE Rev. 1) and NUTS 2 region","hlth_db_emrena","dataset","26.03.2009","21.12.2023","2002","2002",11988,5
+"120","Physicians by NUTS 2 region","hlth_rs_physreg","dataset","11.09.2024","25.07.2024","1993","2022",17901,5
+"121","Arrivals at tourist accommodation establishments by NUTS 2 region","tour_occ_arn2","dataset","29.10.2024","06.09.2024","1990","2023",267395,5
+"122","Nights spent at tourist accommodation establishments by NUTS 2 region","tour_occ_nin2","dataset","29.10.2024","10.09.2024","1990","2023",371993,5
+"123","Net occupancy rate of bed-places and bedrooms in hotels and similar accommodation (NACE Rev. 2 activity I55.1) by  NUTS 2 region","tour_occ_anor2","dataset","29.10.2024","02.10.2024","2012","2023",9895,5
+"124","Nights spent at tourist accommodation establishments by degree of urbanisation and coastal/non-coastal area and NUTS 2 region","tour_occ_nin2dc","dataset","29.10.2024","06.09.2024","2012","2023",201727,5
+"125","Nights spent at tourist accommodation establishments  by month and NUTS 2 region (from 2020 onwards)","tour_occ_nin2m","dataset","29.10.2024","02.09.2024","2020","2023",288153,5
+"126","Establishments, bedrooms and bed-places in tourist accommodation, by NUTS 2 region","tour_cap_nuts2","dataset","29.10.2024","27.09.2024","1990","2023",250813,5
+"127","Establishments, bedrooms and bed-places in tourist accommodation, by degree of urbanisation and coastal/non-coastal area and NUTS 2 region","tour_cap_nuts2dc","dataset","29.10.2024","27.09.2024","2012","2023",484038,5
+"128","Short-stay accommodation offered via collaborative economy platforms by months, residence of the guest and NUTS 1 and NUTS 2 region - experimental statistics","tour_ce_omn12","dataset","03.10.2024","03.10.2024","2018","2024",280569,5
+"129","Guest nights spent at short-stay accommodation offered via collaborative economy platforms by NUTS 1 and NUTS 2 region, by world region of residence of the guest - experimental statistics","tour_ce_oaw","dataset","28.07.2024","28.07.2024","2018","2023",20710,5
+"130","Maritime transport of passengers by NUTS 2 region (questionnaire)","tran_r_mapa_om","dataset","27.03.2009","29.08.2024","1978","2002",7266,6
+"131","Maritime transport of freight by NUTS 2 region (questionnaire)","tran_r_mago_om","dataset","27.03.2009","29.08.2024","1978","2002",11443,6
+"132","Air transport of passengers by NUTS 2 region (questionnaire)","tran_r_avpa_om","dataset","27.03.2009","14.10.2024","1978","2002",13811,6
+"133","Air transport of freight by NUTS 2 region (questionnaire)","tran_r_avgo_om","dataset","27.03.2009","29.08.2024","1978","2002",10487,6
+"134","Road, rail and navigable inland waterways networks by NUTS 2 region","tran_r_net","dataset","20.06.2024","28.08.2024","1990","2022",93318,5
+"135","Stock of vehicles by category and NUTS 2 region","tran_r_vehst","dataset","01.10.2024","28.08.2024","1990","2022",130035,5
+"136","Victims in road accidents by NUTS 2 region","tran_r_acci","dataset","05.05.2024","05.05.2024","1990","2022",52849,5
+"137","Maritime transport of passengers by NUTS 2 region","tran_r_mapa_nm","dataset","05.05.2024","29.08.2024","1997","2022",14817,5
+"138","Maritime transport of freight by NUTS 2 region","tran_r_mago_nm","dataset","05.05.2024","29.08.2024","1997","2022",15291,5
+"139","Air transport of passengers by NUTS 2 region","tran_r_avpa_nm","dataset","05.05.2024","29.08.2024","1993","2022",22730,5
+"140","Air transport of freight by NUTS 2 region","tran_r_avgo_nm","dataset","05.05.2024","29.08.2024","1993","2022",21322,5
+"141","Railway transport - national and international railway goods transport by loading/unloading NUTS 2 region","tran_r_rago","dataset","04.07.2024","07.06.2024","2005","2020",78725,5
+"142","Railway transport - national and international railway passengers transport by loading/unloading NUTS 2 region","tran_r_rapa","dataset","09.06.2022","10.01.2024","2005","2020",72300,5
+"143","Population by sex, age, citizenship, labour status and NUTS 2 region","lfst_r_lfsd2pwn","dataset","12.09.2024","24.04.2024","1999","2023",4890896,5
+"144","Population by sex, age, country of birth, labour status and NUTS 2 region","lfst_r_lfsd2pwc","dataset","12.09.2024","24.04.2024","1999","2023",4732810,5
+"145","Population by sex, age, educational attainment level and NUTS 2 region (1 000)","lfst_r_lfsd2pop","dataset","12.09.2024","24.04.2024","1999","2023",1874689,5
+"146","Economically active population by sex, age and NUTS 2 region (1 000)","lfst_r_lfp2act","dataset","12.09.2024","24.04.2024","1999","2023",404064,5
+"147","Activity rates by sex, age, educational attainment level, citizenship and NUTS 2 region","lfst_r_lfp2actrtn","dataset","12.09.2024","24.04.2024","1999","2023",2778836,5
+"148","Activity rates by sex, age, educational attainment level, country of birth and NUTS 2 region","lfst_r_lfp2actrc","dataset","12.09.2024","24.04.2024","1999","2023",2720405,5
+"149","Economic activity rates by sex, age and NUTS 2 region (%)","lfst_r_lfp2actrt","dataset","12.09.2024","24.04.2024","1999","2023",370491,5
+"150","Economically active population by sex, age, educational attainment level and NUTS 2 region (1 000)","lfst_r_lfp2acedu","dataset","12.09.2024","24.04.2024","1999","2023",444363,5
+"151","Employment by sex, age and NUTS 2 region (1 000)","lfst_r_lfe2emp","dataset","12.09.2024","24.04.2024","1999","2023",404060,5
+"152","Employment by sex, age, economic activity and NUTS 2 region (NACE Rev. 2) (1 000)","lfst_r_lfe2en2","dataset","12.09.2024","24.04.2024","2008","2023",1466374,5
+"153","Employment by sex, age, economic activity and NUTS 2 region (1999-2008, NACE Rev. 1.1) (1 000)","lfst_r_lfe2en1","dataset","15.02.2023","10.01.2024","1999","2008",667065,5
+"154","Employment by sex, age, professional status and NUTS 2 region (1 000)","lfst_r_lfe2estat","dataset","12.09.2024","24.04.2024","1999","2023",1419802,5
+"155","Employment by sex, age, full-time/part-time, professional status and NUTS 2 region (1 000)","lfst_r_lfe2eftpt","dataset","12.09.2024","24.04.2024","1999","2023",3947800,5
+"156","Employment by sex, age, educational attainment level and NUTS 2 region (1 000)","lfst_r_lfe2eedu","dataset","12.09.2024","24.04.2024","1999","2023",871028,5
+"157","Employment and commuting by sex, age and NUTS 2 region","lfst_r_lfe2ecomm","dataset","12.09.2024","24.04.2024","1999","2023",298492,5
+"158","Employment by sex, age, job tenure and NUTS 2 region","lfst_r_egad","dataset","12.09.2024","24.04.2024","1999","2023",2576280,5
+"159","Employment rates by sex, age, educational attainment level, citizenship and NUTS 2 region","lfst_r_lfe2emprtn","dataset","12.09.2024","24.04.2024","1999","2023",2778836,5
+"160","Employment rates by sex, age, educational attainment level, country of birth and NUTS 2 region","lfst_r_lfe2emprc","dataset","12.09.2024","24.04.2024","1999","2023",2720405,5
+"161","Employment rates by sex, age and NUTS 2 region (%)","lfst_r_lfe2emprt","dataset","12.09.2024","24.04.2024","1999","2023",404172,5
+"162","Average number of usual weekly hours of work in main job by sex, age and NUTS 2 region (hours)","lfst_r_lfe2ehour","dataset","12.09.2024","24.04.2024","1999","2023",234627,5
+"163","Average number of actual weekly hours of work in main job by sex, age and NUTS 2 region","lfst_r_lfe2ehrwa","dataset","12.09.2024","24.04.2024","1999","2023",235610,5
+"164","Unemployment by sex, age, educational attainment level and NUTS 2 region (1 000)","lfst_r_lfu3pers","dataset","12.09.2024","24.04.2024","1999","2023",1386815,5
+"165","Unemployment rates by sex, age, educational attainment level and NUTS 2 region (%)","lfst_r_lfu3rt","dataset","12.09.2024","24.04.2024","1999","2023",1547404,5
+"166","Long-term unemployment (12 months and more) by sex, age, educational attainment level and NUTS 2 region (%)","lfst_r_lfu2ltu","dataset","12.09.2024","24.04.2024","1999","2023",2889249,5
+"167","Unemployment by sex, age, country of birth and NUTS 2 region","lfst_r_lfu2gac","dataset","12.09.2024","24.04.2024","1999","2023",812409,5
+"168","Unemployment rates by sex, age, country of birth and NUTS 2 region","lfst_r_lfur2gac","dataset","12.09.2024","24.04.2024","1999","2023",812409,5
+"169","Unemployment by sex, age, citizenship and NUTS 2 region","lfst_r_lfu2gan","dataset","12.09.2024","24.04.2024","1999","2023",852024,5
+"170","Unemployment rates by sex, age, citizenship and NUTS 2 region","lfst_r_lfur2gan","dataset","12.09.2024","24.04.2024","1999","2023",852024,5
+"171","Labour market slack by sex, age and NUTS 2 region","lfst_r_sla_ga","dataset","12.09.2024","24.04.2024","2008","2023",180024,5
+"172","Job vacancy statistics by occupation, NUTS 2 region and NACE Rev. 2 activity - annual data (2008-2015)","jvs_a_nace2","dataset","08.06.2016","21.12.2023","2008","2015",296421,5
+"173","Job vacancy statistics by occupation, NUTS 2 region and NACE Rev. 1.1 activity - annual data (2000-2008)","jvs_a_nace1","dataset","17.01.2017","21.12.2023","2000","2008",183946,5
+"174","Use of computers and the internet by employees, by NACE Rev.2 activity and NUTS 2 region","isoc_r_ci_cm_pn2","dataset","24.09.2024","24.09.2024","2023","2023",1621,5
+"175","Internet access by NACE Rev.2 activity and NUTS 2 region","isoc_r_ci_in_en2","dataset","24.09.2024","24.09.2024","2023","2023",6653,5
+"176","Type of connections to the internet by NACE Rev.2 activity and NUTS 2 region","isoc_r_ci_it_en2","dataset","24.09.2024","24.09.2024","2023","2023",37332,5
+"177","Cloud computing services by NACE Rev.2 activity and NUTS 2 region","isoc_r_cicce_usen2","dataset","24.09.2024","24.09.2024","2023","2023",6392,5
+"178","Artificial intelligence by NACE Rev.2 activity and NUTS 2 region","isoc_r_eb_ain2","dataset","24.09.2024","24.09.2024","2023","2023",35354,5
+"179","Integration with customers/suppliers, supply chain management by NACE Rev.2 activity and NUTS 2 region","isoc_r_eb_icsn2","dataset","24.09.2024","24.09.2024","2023","2023",9834,5
+"180","Integration of internal processes by NACE Rev.2 activity and NUTS 2 region","isoc_r_eb_iipn2","dataset","24.09.2024","24.09.2024","2023","2023",11748,5
+"181","E-commerce sales of enterprises by NACE Rev.2 activity and NUTS 2 region","isoc_r_ec_eseln2","dataset","24.09.2024","24.09.2024","2023","2023",3226,5
+"182","Value of e-commerce sales by NACE Rev.2 activity and NUTS 2 region","isoc_r_ec_evaln2","dataset","24.09.2024","24.09.2024","2023","2023",1585,5
+"183","Data analytics by NACE Rev.2 activity and NUTS 2 region","isoc_r_eb_dan2","dataset","24.09.2024","24.09.2024","2023","2023",2974,5
+"184","Number of households by degree of urbanisation and NUTS 2 region (1 000)","lfst_r_lfsd2hh","dataset","12.09.2024","24.04.2024","2006","2023",29049,5
+"185","Nights spent at tourist accommodation establishments by degree of urbanisation and coastal/non-coastal area and NUTS 2 region","tour_occ_nin2dc","dataset","29.10.2024","06.09.2024","2012","2023",201727,4
+"186","Establishments, bedrooms and bed-places in tourist accommodation, by degree of urbanisation and coastal/non-coastal area and NUTS 2 region","tour_cap_nuts2dc","dataset","29.10.2024","27.09.2024","2012","2023",484038,4
+"187","Land cover overview by NUTS 2 region","lan_lcv_ovw","dataset","18.07.2022","10.01.2024","2009","2018",146448,3
+"188","Land covered by artificial surfaces by NUTS 2 region","lan_lcv_art","dataset","15.07.2021","10.01.2024","2009","2018",24995,3
+"189","Land use overview by NUTS 2 region","lan_use_ovw","dataset","14.07.2021","10.01.2024","2009","2018",68238,3
+"190","Land cover for FAO Forest categories by NUTS 2 region","lan_lcv_fao","dataset","18.05.2021","10.01.2024","2009","2018",16342,3
+"191","Gross domestic product (GDP) at current market prices by NUTS 2 region","nama_10r_2gdp","dataset","19.02.2024","19.02.2024","2000","2022",69176,6
+"192","Gross domestic product (GDP) and Gross value added (GVA) in volume by NUTS 2 region","nama_10r_2gvagr","dataset","19.02.2024","19.02.2024","1995","2022",39297,6
+"193","Gross fixed capital formation by NUTS 2 region","nama_10r_2gfcf","dataset","19.02.2024","19.02.2024","1995","2022",267294,6
+"194","Compensation of employees by NUTS 2 region","nama_10r_2coe","dataset","19.02.2024","19.02.2024","1995","2022",270976,6
+"195","Employment (thousand hours worked) by NUTS 2 region","nama_10r_2emhrw","dataset","08.08.2024","19.02.2024","1995","2022",260118,6
+"196","Income of households by NUTS 2 region","nama_10r_2hhinc","dataset","19.02.2024","19.02.2024","1995","2022",266524,6
+"197","Nominal Labour productivity by NUTS 2 region","nama_10r_2nlp","dataset","19.02.2024","19.02.2024","2000","2022",53130,6
+"198","Real Labour productivity by NUTS 2 region","nama_10r_2rlp","dataset","13.03.2024","19.02.2024","2000","2022",34000,6
+"199","Compensation per employee and hours worked per employed person by NUTS 2 region and by industry","nama_10r_2lp10","dataset","19.02.2024","19.02.2024","1995","2022",417670,6
+"200","Population by current activity status, educational attainment level and NUTS 2 region","cens_11aed_r2","dataset","01.04.2019","10.01.2024","2011","2011",2425928,6
+"201","Population by current activity status, occupation and NUTS 2 region","cens_11ao_r2","dataset","26.08.2015","10.01.2024","2011","2011",3172833,6
+"202","Population by current activity status, NACE Rev. 2 activity and NUTS 2 region","cens_11an_r2","dataset","23.07.2015","31.01.2024","2011","2011",3110101,6
+"203","Population by status in employment, occupation and NUTS 2 region","cens_11empo_r2","dataset","01.04.2019","10.01.2024","2011","2011",3675197,6
+"204","Population by status in employment, NACE Rev. 2 activity and NUTS 2 region","cens_11empn_r2","dataset","22.07.2015","31.01.2024","2011","2011",3694015,6
+"205","Population by group of citizenship, occupation and NUTS 2 region","cens_11ctzo_r2","dataset","26.08.2015","10.01.2024","2011","2011",789038,6
+"206","Population by group of country of birth, educational attainment level and NUTS 2 region","cens_11cobe_r2","dataset","26.08.2015","10.01.2024","2011","2011",705614,6
+"207","Population by group of country of birth, current activity status and NUTS 2 region","cens_11coba_r2","dataset","26.08.2015","10.01.2024","2011","2011",424630,6
+"208","Population by group of country of birth, occupation and NUTS 2 region","cens_11cobo_r2","dataset","26.08.2015","10.01.2024","2011","2011",788639,6
+"209","Population by period of arrival in the country, country of birth and NUTS 2 region","cens_11arco_r2","dataset","26.08.2015","10.01.2024","2011","2011",111921,6
+"210","Private households by type, tenure status and NUTS 2 region","cens_11htts_r2","dataset","23.04.2015","10.01.2024","2011","2011",57341,5
+"211","Population by housing arrangement and NUTS 2 region","cens_11hou_r2","dataset","26.08.2015","10.01.2024","2011","2011",76991,5
+"212","Population structure indicators by NUTS 2 region","demo_r_pjanind2","dataset","05.11.2024","12.02.2024","1990","2023",690593,4
+"213","Population on 1 January by age, sex and NUTS 2 region","demo_r_d2jan","dataset","05.11.2024","02.02.2024","1990","2023",4407435,4
+"214","Population on 1 January by age group, sex and NUTS 2 region","demo_r_pjangroup","dataset","05.11.2024","02.02.2024","1990","2023",969191,4
+"215","Fertility indicators by NUTS 2 region","demo_r_find2","dataset","03.09.2024","22.02.2024","1990","2022",38194,4
+"216","Fertility rates by age and NUTS 2 region","demo_r_frate2","dataset","03.09.2024","22.02.2024","1990","2022",462529,4
+"217","Live births by mother's age and NUTS 2 region","demo_r_fagec","dataset","03.09.2024","22.02.2024","1990","2022",509535,4
+"218","Life table by age, sex and NUTS 2 region","demo_r_mlife","dataset","05.09.2024","14.03.2024","1990","2022",25135126,4
+"219","Life expectancy by age, sex and NUTS 2 region","demo_r_mlifexp","dataset","05.09.2024","07.03.2024","1990","2022",3218021,4
+"220","Deaths by age, sex and NUTS 2 region","demo_r_magec","dataset","05.09.2024","14.03.2024","1990","2022",3980520,4
+"221","Infant mortality rates by NUTS 2 region","demo_r_minfind","dataset","31.07.2024","14.03.2024","1990","2022",12746,4
+"222","Infant mortality by NUTS 2 region","demo_r_minf","dataset","05.09.2024","14.03.2024","1990","2022",12169,4
+"223","Deaths by week, sex and NUTS 2 region","demo_r_mwk2_ts","dataset","05.11.2024","05.11.2024","2000-W01","2024-W43",1124045,4
+"224","Deaths by week, sex, 20-year age group and NUTS 2 region","demo_r_mwk2_20","dataset","05.11.2024","05.11.2024","2000-W01","2024-W43",7679718,4
+"225","Deaths by week, sex, 10-year age group and NUTS 2 region","demo_r_mwk2_10","dataset","05.11.2024","05.11.2024","2000-W01","2024-W43",14255736,4
+"226","Deaths by week, sex, 5-year age group and NUTS 2 region","demo_r_mwk2_05","dataset","05.11.2024","05.11.2024","2000-W01","2024-W43",23027184,4
+"227","Physicians by NUTS 2 region","hlth_rs_physreg","dataset","11.09.2024","25.07.2024","1993","2022",17901,6
+"228","Available beds in hospitals by NUTS 2 region","hlth_rs_bdsrg2","dataset","03.09.2024","25.07.2024","1993","2022",16926,6
+"229","Health personnel by NUTS 2 region - historical data (1993-2021)","hlth_rs_prsrg","dataset","20.12.2022","10.01.2024","1993","2021",77967,6
+"230","Hospital beds by NUTS 2 region– historical data (1993-2016)","hlth_rs_bdsrg","dataset","20.12.2022","10.01.2024","1993","2021",89129,6
+"231","Long-term care beds in nursing and residential care facilities by NUTS 2 region - historical data (1980-2021)","hlth_rs_bdsns","dataset","12.07.2022","10.01.2024","1980","2021",8907,6
+"232","Hospital discharges by diagnosis and NUTS 2 region, in-patients, total number - total","hlth_co_disch1t","dataset","21.11.2023","10.01.2024","2000","2021",11490302,6
+"233","Hospital discharges by diagnosis and NUTS 2 region, in-patients, total number - males","hlth_co_disch1m","dataset","21.11.2023","10.01.2024","2000","2021",10313010,6
+"234","Hospital discharges by diagnosis, NUTS 2 region, in-patients and total number - females","hlth_co_disch1f","dataset","21.11.2023","10.01.2024","2000","2021",11233053,6
+"235","Hospital discharges by diagnosis and NUTS 2 region, in-patients, per 100 000 inhabitants - total","hlth_co_disch2t","dataset","21.11.2023","10.01.2024","2000","2021",10736776,6
+"236","Hospital discharges by diagnosis and NUTS 2 region, in-patients, per 100 000 inhabitants - males","hlth_co_disch2m","dataset","21.11.2023","10.01.2024","2000","2021",9638145,6
+"237","Hospital discharges by diagnosis and NUTS 2 region, in-patients, per 100 000 inhabitants - females","hlth_co_disch2f","dataset","21.11.2023","10.01.2024","2000","2021",10498288,6
+"238","Hospital discharges by diagnosis and NUTS 2 region, day cases, total number - total","hlth_co_disch3t","dataset","21.11.2023","10.01.2024","2000","2021",10569994,6
+"239","Hospital discharges by diagnosis and NUTS 2 region, day cases, total number - males","hlth_co_disch3m","dataset","21.11.2023","10.01.2024","2000","2021",9478192,6
+"240","Hospital discharges by diagnosis and NUTS 2 region, day cases, total number - females","hlth_co_disch3f","dataset","21.11.2023","10.01.2024","2000","2021",10323745,6
+"241","Hospital discharges by diagnosis and NUTS 2 region, day cases, per 100 000 inhabitants - total","hlth_co_disch4t","dataset","21.11.2023","10.01.2024","2000","2021",9876996,6
+"242","Hospital discharges by diagnosis and NUTS 2 region, day cases, per 100 000 inhabitants - males","hlth_co_disch4m","dataset","21.11.2023","10.01.2024","2000","2021",8857013,6
+"243","Hospital discharges by diagnosis and NUTS 2 region, day cases, per 100 000 inhabitants - females","hlth_co_disch4f","dataset","21.11.2023","10.01.2024","2000","2021",9664091,6
+"244","In-patient average length of stay (days) by NUTS 2 region - total","hlth_co_inpstt","dataset","21.11.2023","10.01.2024","1999","2021",9503589,6
+"245","In-patient average length of stay (days) by NUTS 2 region - males","hlth_co_inpstm","dataset","21.11.2023","10.01.2024","1999","2021",8473961,6
+"246","In-patient average length of stay (days) by NUTS 2 region - females","hlth_co_inpstf","dataset","21.11.2023","10.01.2024","1999","2021",8954435,6
+"247","Hospital days of in-patients by NUTS 2 region - total","hlth_co_hosdayt","dataset","21.11.2023","10.01.2024","1999","2021",11483579,6
+"248","Hospital days of in-patients by NUTS 2 region - males","hlth_co_hosdaym","dataset","21.11.2023","10.01.2024","1999","2021",10299265,6
+"249","Hospital days of in-patients by NUTS 2 region - females","hlth_co_hosdayf","dataset","21.11.2023","10.01.2024","1999","2021",11216989,6
+"250","Self-reported unmet needs for medical examination by main reason declared and NUTS 2 region","hlth_silc_08_r","dataset","04.10.2024","02.07.2024","2008","2023",23480,5
+"251","Causes of death - standardised death rate by NUTS 2 region of residence","hlth_cd_asdr2","dataset","25.04.2024","25.03.2024","2011","2021",3830826,5
+"252","Causes of death - crude death rate by NUTS 2 region of residence","hlth_cd_acdr2","dataset","25.04.2024","25.03.2024","2011","2021",6549928,5
+"253","Causes of death - deaths by NUTS 2 region of residence and occurrence, 3 year average","hlth_cd_yro","dataset","26.04.2024","25.03.2024","2013","2021",98209349,5
+"254","Causes of death - standardised death rate by NUTS 2 region of residence, 3 year average","hlth_cd_ysdr2","dataset","26.04.2024","25.03.2024","2013","2021",2962242,5
+"255","Causes of death - crude death rate by NUTS 2 region of residence, 3 year average","hlth_cd_ycdr2","dataset","26.04.2024","25.03.2024","2013","2021",29763194,5
+"256","Causes of death - years and potential years of life lost by NUTS 2 region of residence, 3 year average","hlth_cd_ypyll","dataset","26.04.2024","25.03.2024","2013","2021",12219,5
+"257","Causes of death - infant mortality by NUTS 2 region of residence, 3 year average","hlth_cd_yinfr","dataset","26.04.2024","25.03.2024","2013","2021",4537933,5
+"258","Causes of death - infant mortality by NUTS 2 region of occurrence, 3 year average","hlth_cd_yinfo","dataset","26.04.2024","25.03.2024","2013","2021",7895010,5
+"259","Peri-neonatal mortality by age of mother and parity, by NUTS 2 region of residence and occurrence, 3 year average","hlth_cd_yperro","dataset","26.04.2024","25.03.2024","2013","2021",992547,5
+"260","Fetal, peri- and neonatal mortality rates by NUTS 2 region of occurrence, 3 year average","hlth_cd_yperrto","dataset","26.04.2024","25.03.2024","2013","2021",33765,5
+"261","Causes of death by NUTS 2 region - crude death rate","hlth_cd_acdr","dataset","17.04.2020","10.01.2024","1994","2010",5846589,5
+"262","Causes of death by NUTS 2 region - standardised death rate, 3 year average","hlth_cd_ysdr1","dataset","19.03.2019","10.01.2024","1996","2010",2548972,5
+"263","Causes of death by NUTS 2 region - crude death rate, 3 year average - females","hlth_cd_ycdrf","dataset","19.03.2019","10.01.2024","1996","2010",6568201,5
+"264","Causes of death by NUTS 2 region - crude death rate, 3 year average - males","hlth_cd_ycdrm","dataset","19.03.2019","10.01.2024","1996","2010",6436256,5
+"265","Causes of death by NUTS 2 region - crude death rate, 3 year average - total","hlth_cd_ycdrt","dataset","19.03.2019","10.01.2024","1998","2010",6558608,5
+"266","Causes of death by NUTS 2 region - absolute number, 3 year average - females","hlth_cd_ynrf","dataset","19.03.2019","10.01.2024","1998","2010",6569926,5
+"267","Causes of death by NUTS 2 region - absolute number, 3 year average - males","hlth_cd_ynrm","dataset","19.03.2019","10.01.2024","1998","2010",6439686,5
+"268","Causes of death by NUTS 2 region - absolute number, 3 year average - total","hlth_cd_ynrt","dataset","19.03.2019","10.01.2024","1998","2010",6562842,5
+"269","Pupils enrolled in early childhood education by sex and NUTS 2 region","educ_uoe_enrp03","dataset","26.07.2024","23.05.2024","2013","2022",34740,6
+"270","Pupils enrolled in primary education by sex and NUTS 2 region","educ_uoe_enrp06","dataset","26.07.2024","23.05.2024","2013","2022",13395,6
+"271","Pupils enrolled in lower-secondary education by programme orientation, sex and NUTS 2 region","educ_uoe_enrs03","dataset","26.07.2024","23.05.2024","2013","2022",39936,6
+"272","Pupils enrolled in upper secondary education by programme orientation, sex and NUTS 2 region","educ_uoe_enrs06","dataset","26.07.2024","23.05.2024","2013","2022",40176,6
+"273","Pupils enrolled in post-secondary non-tertiary education by programme orientation, sex and NUTS 2 region","educ_uoe_enrs09","dataset","26.07.2024","23.05.2024","2013","2022",39948,6
+"274","Ratio of the proportion of tertiary students over the proportion of the population by NUTS 1 and NUTS 2 region","educ_uoe_enrt05","dataset","26.07.2024","23.05.2024","2013","2022",3864,6
+"275","Students enrolled in tertiary education by education level, programme orientation, sex and NUTS 2 region","educ_uoe_enrt06","dataset","26.07.2024","23.05.2024","2013","2022",93176,6
+"276","Pupils and students enrolled by education level, sex and NUTS 2 region","educ_uoe_enra11","dataset","26.07.2024","23.05.2024","2013","2022",133536,6
+"277","Pupils and students enrolled by sex, age and NUTS 2 region","educ_uoe_enra12","dataset","26.07.2024","23.05.2024","2013","2022",450351,6
+"278","Distribution of pupils and students enrolled in general and vocational programmes by education level and NUTS 2 region","educ_uoe_enra13","dataset","26.07.2024","23.05.2024","2013","2022",32767,6
+"279","Pupils from age 4 to the starting age of compulsory education at primary level by NUTS 2 region - % of the population of the corresponding age","educ_uoe_enra17","dataset","26.07.2024","23.05.2024","2013","2022",3952,6
+"280","Pupils from age 3 to the starting age of compulsory education at primary level by NUTS 2 region - % of the population of the corresponding age","educ_uoe_enra22","dataset","26.07.2024","23.05.2024","2013","2022",3595,6
+"281","Participation rate in education and training (last 4 weeks) by NUTS 2 region","trng_lfse_04","dataset","12.09.2024","24.04.2024","2000","2023",31961,7
+"282","Participation rate in education and training (last 12 months) by sex, age and NUTS 2 region","trng_lfs_22","dataset","13.09.2024","13.09.2024","2022","2022",21060,7
+"283","Population by educational attainment level, sex, age, country of birth and NUTS 2 region (%)","edat_lfs_9917","dataset","12.09.2024","24.04.2024","2004","2023",1156358,7
+"284","Population by educational attainment level, sex, age, citizenship and NUTS 2 region (%)","edat_lfs_9918","dataset","12.09.2024","24.04.2024","2004","2023",1200530,7
+"285","Population by educational attainment level, sex and NUTS 2 region (%)","edat_lfse_04","dataset","12.09.2024","24.04.2024","2000","2023",612157,6
+"286","Young people neither in employment nor in education and training by sex and NUTS 2 region (NEET rates)","edat_lfse_22","dataset","12.09.2024","24.04.2024","2000","2023",128547,6
+"287","Young people neither in employment nor in education and training by sex, age, country of birth and NUTS 2 region (NEET rates)","edat_lfse_37","dataset","12.09.2024","24.04.2024","2004","2023",520910,6
+"288","Young people neither in employment nor in education and training by sex, age, citizenship and NUTS 2 region (NEET rates)","edat_lfse_38","dataset","12.09.2024","24.04.2024","2004","2023",526863,6
+"289","Early leavers from education and training by sex and NUTS 2 region","edat_lfse_16","dataset","12.09.2024","24.04.2024","2000","2023",32169,6
+"290","Employment rates of young people not in education and training by sex, educational attainment level, years since completion of highest level of education and NUTS 2 region","edat_lfse_33","dataset","12.09.2024","24.04.2024","2000","2023",3852642,6
+"291","Students by level of education, orientation, sex and NUTS 2 region","educ_renrlrg1","dataset","15.03.2019","10.01.2024","1998","2012",190546,5
+"292","Students by age, sex and NUTS 2 region","educ_renrlrg3","dataset","15.03.2019","10.01.2024","1998","2012",404250,5
+"293","Education indicators by NUTS 2 region","educ_regind","dataset","15.03.2019","10.01.2024","1998","2012",43983,5
+"294","Population by sex, age, citizenship, labour status and NUTS 2 region","lfst_r_lfsd2pwn","dataset","12.09.2024","24.04.2024","1999","2023",4890896,7
+"295","Population by sex, age, country of birth, labour status and NUTS 2 region","lfst_r_lfsd2pwc","dataset","12.09.2024","24.04.2024","1999","2023",4732810,7
+"296","Population by sex, age, educational attainment level and NUTS 2 region (1 000)","lfst_r_lfsd2pop","dataset","12.09.2024","24.04.2024","1999","2023",1874689,7
+"297","Economically active population by sex, age and NUTS 2 region (1 000)","lfst_r_lfp2act","dataset","12.09.2024","24.04.2024","1999","2023",404064,7
+"298","Activity rates by sex, age, educational attainment level, citizenship and NUTS 2 region","lfst_r_lfp2actrtn","dataset","12.09.2024","24.04.2024","1999","2023",2778836,7
+"299","Activity rates by sex, age, educational attainment level, country of birth and NUTS 2 region","lfst_r_lfp2actrc","dataset","12.09.2024","24.04.2024","1999","2023",2720405,7
+"300","Economic activity rates by sex, age and NUTS 2 region (%)","lfst_r_lfp2actrt","dataset","12.09.2024","24.04.2024","1999","2023",370491,7
+"301","Economically active population by sex, age, educational attainment level and NUTS 2 region (1 000)","lfst_r_lfp2acedu","dataset","12.09.2024","24.04.2024","1999","2023",444363,7
+"302","Employment by sex, age and NUTS 2 region (1 000)","lfst_r_lfe2emp","dataset","12.09.2024","24.04.2024","1999","2023",404060,7
+"303","Employment by sex, age, economic activity and NUTS 2 region (NACE Rev. 2) (1 000)","lfst_r_lfe2en2","dataset","12.09.2024","24.04.2024","2008","2023",1466374,7
+"304","Employment by sex, age, economic activity and NUTS 2 region (1999-2008, NACE Rev. 1.1) (1 000)","lfst_r_lfe2en1","dataset","15.02.2023","10.01.2024","1999","2008",667065,7
+"305","Employment by sex, age, professional status and NUTS 2 region (1 000)","lfst_r_lfe2estat","dataset","12.09.2024","24.04.2024","1999","2023",1419802,7
+"306","Employment by sex, age, full-time/part-time, professional status and NUTS 2 region (1 000)","lfst_r_lfe2eftpt","dataset","12.09.2024","24.04.2024","1999","2023",3947800,7
+"307","Employment by sex, age, educational attainment level and NUTS 2 region (1 000)","lfst_r_lfe2eedu","dataset","12.09.2024","24.04.2024","1999","2023",871028,7
+"308","Employment and commuting by sex, age and NUTS 2 region","lfst_r_lfe2ecomm","dataset","12.09.2024","24.04.2024","1999","2023",298492,7
+"309","Employment by sex, age, job tenure and NUTS 2 region","lfst_r_egad","dataset","12.09.2024","24.04.2024","1999","2023",2576280,7
+"310","Employment rates by sex, age, educational attainment level, citizenship and NUTS 2 region","lfst_r_lfe2emprtn","dataset","12.09.2024","24.04.2024","1999","2023",2778836,7
+"311","Employment rates by sex, age, educational attainment level, country of birth and NUTS 2 region","lfst_r_lfe2emprc","dataset","12.09.2024","24.04.2024","1999","2023",2720405,7
+"312","Employment rates by sex, age and NUTS 2 region (%)","lfst_r_lfe2emprt","dataset","12.09.2024","24.04.2024","1999","2023",404172,7
+"313","Average number of usual weekly hours of work in main job by sex, age and NUTS 2 region (hours)","lfst_r_lfe2ehour","dataset","12.09.2024","24.04.2024","1999","2023",234627,7
+"314","Average number of actual weekly hours of work in main job by sex, age and NUTS 2 region","lfst_r_lfe2ehrwa","dataset","12.09.2024","24.04.2024","1999","2023",235610,7
+"315","Unemployment by sex, age, educational attainment level and NUTS 2 region (1 000)","lfst_r_lfu3pers","dataset","12.09.2024","24.04.2024","1999","2023",1386815,7
+"316","Unemployment rates by sex, age, educational attainment level and NUTS 2 region (%)","lfst_r_lfu3rt","dataset","12.09.2024","24.04.2024","1999","2023",1547404,7
+"317","Long-term unemployment (12 months and more) by sex, age, educational attainment level and NUTS 2 region (%)","lfst_r_lfu2ltu","dataset","12.09.2024","24.04.2024","1999","2023",2889249,7
+"318","Unemployment by sex, age, country of birth and NUTS 2 region","lfst_r_lfu2gac","dataset","12.09.2024","24.04.2024","1999","2023",812409,7
+"319","Unemployment rates by sex, age, country of birth and NUTS 2 region","lfst_r_lfur2gac","dataset","12.09.2024","24.04.2024","1999","2023",812409,7
+"320","Unemployment by sex, age, citizenship and NUTS 2 region","lfst_r_lfu2gan","dataset","12.09.2024","24.04.2024","1999","2023",852024,7
+"321","Unemployment rates by sex, age, citizenship and NUTS 2 region","lfst_r_lfur2gan","dataset","12.09.2024","24.04.2024","1999","2023",852024,7
+"322","Labour market slack by sex, age and NUTS 2 region","lfst_r_sla_ga","dataset","12.09.2024","24.04.2024","2008","2023",180024,7
+"323","Number of households by degree of urbanisation and NUTS 2 region (1 000)","lfst_r_lfsd2hh","dataset","12.09.2024","24.04.2024","2006","2023",29049,7
+"324","Prevalence of disability by sex, economic activity (NACE Rev. 1) and NUTS 2 region","hlth_db_emrena","dataset","26.03.2009","21.12.2023","2002","2002",11988,7
+"325","Job vacancy statistics by occupation, NUTS 2 region and NACE Rev. 1.1 activity - annual data (2000-2008)","jvs_a_nace1","dataset","17.01.2017","21.12.2023","2000","2008",183946,5
+"326","Job vacancy statistics by occupation, NUTS 2 region and NACE Rev. 2 activity - annual data (2008-2015)","jvs_a_nace2","dataset","08.06.2016","21.12.2023","2008","2015",296421,5
+"327","Job vacancy statistics by NACE Rev. 2 activity, occupation and NUTS 2 region - quarterly data","jvs_q_isco_r2","dataset","08.10.2024","21.08.2024","2001-Q1","2024-Q2",1664783,4
+"328","Income quintile share ratio S80/S20 by NUTS 2 region","ilc_di11_r","dataset","04.10.2024","02.07.2024","2003","2023",3305,6
+"329","At-risk-of-poverty rate before social transfers (pensions excluded from social transfers) by NUTS 2 region","ilc_li10_r","dataset","21.10.2024","21.10.2024","2003","2023",3341,6
+"330","Cultural employment by NUTS 2 region","cult_emp_reg","dataset","18.10.2023","10.01.2024","2014","2022",7520,4
+"331","SBS data by NUTS 2 region and NACE Rev. 2 (2008-2020)","sbs_r_nuts06_r2","dataset","01.03.2024","10.01.2024","2008","2020",2139869,6
+"332","Multiannual statistics for distributive trades (NACE Rev. 2, G) by NUTS 2 region (2009-2014)","sbs_r_3k_my_r2","dataset","24.05.2019","10.01.2024","2009","2014",26758,6
+"333","SBS data by NUTS 2 region (NUTS 2006) and NACE Rev. 1.1 (1995-2007)","sbs_r_nuts03","dataset","27.10.2022","23.09.2023","1995","2007",1793482,6
+"334","Multi yearly statistics by NUTS 2 region (NUTS 2006) (1999-2004)","sbs_r_3f_my","dataset","10.09.2009","08.02.2021","1999","2004",8079,6
+"335","Enterprises by NUTS 2 region and NACE Rev.2 activity","sbs_r_nuts2021","dataset","24.10.2024","16.10.2024","2021","2022",352648,5
+"336","Number of local units, persons employed and wages and salaries by NUTS 2 region (1997-2007)","sbs_cre_rreg","dataset","06.10.2010","07.06.2024","1997","2007",4070,8
+"337","Nights spent at tourist accommodation establishments by NUTS 2 region","tour_occ_nin2","dataset","29.10.2024","10.09.2024","1990","2023",371993,6
+"338","Nights spent at tourist accommodation establishments  by month and NUTS 2 region (from 2020 onwards)","tour_occ_nin2m","dataset","29.10.2024","02.09.2024","2020","2023",288153,6
+"339","Nights spent at tourist accommodation establishments by degree of urbanisation and coastal/non-coastal area and NUTS 2 region","tour_occ_nin2dc","dataset","29.10.2024","06.09.2024","2012","2023",201727,6
+"340","Arrivals at tourist accommodation establishments by NUTS 2 region","tour_occ_arn2","dataset","29.10.2024","06.09.2024","1990","2023",267395,6
+"341","Net occupancy rate of bed-places and bedrooms in hotels and similar accommodation (NACE Rev. 2 activity I55.1) by  NUTS 2 region","tour_occ_anor2","dataset","29.10.2024","02.10.2024","2012","2023",9895,6
+"342","Establishments, bedrooms and bed-places in tourist accommodation, by NUTS 2 region","tour_cap_nuts2","dataset","29.10.2024","27.09.2024","1990","2023",250813,5
+"343","Establishments, bedrooms and bed-places in tourist accommodation, by degree of urbanisation and coastal/non-coastal area and NUTS 2 region","tour_cap_nuts2dc","dataset","29.10.2024","27.09.2024","2012","2023",484038,5
+"344","Short-stay accommodation offered via collaborative economy platforms by months, residence of the guest and NUTS 1 and NUTS 2 region - experimental statistics","tour_ce_omn12","dataset","03.10.2024","03.10.2024","2018","2024",280569,5
+"345","Guest nights spent at short-stay accommodation offered via collaborative economy platforms by NUTS 1 and NUTS 2 region, by world region of residence of the guest - experimental statistics","tour_ce_oaw","dataset","28.07.2024","28.07.2024","2018","2023",20710,5
+"346","Farm indicators by legal status of the holding, utilised agricultural area, type and economic size of the farm and NUTS 2 region","ef_m_farmleg","dataset","26.03.2024","10.01.2024","2010","2020",13833821,5
+"347","Farm indicators by age and sex of the manager, economic size of the farm, utilised agricultural area and NUTS 2 region","ef_m_farmang","dataset","26.03.2024","10.01.2024","2010","2020",9550078,5
+"348","Main farm indicators by organic farming, utilised agricultural area, economic size, farm type of agricultural holding and NUTS 2","ef_m_org","dataset","26.03.2024","26.03.2024","2010","2020",14480807,5
+"349","Main farm indicators by rural development support measures, utilized agricultural area, type and economic size of the farm and NUTS 2 region","ef_m_rd","dataset","31.10.2024","31.10.2024","2010","2020",6249704,5
+"350","Share of holdings by economic size classes and NUTS 2 region","ef_m_so_sh","dataset","27.05.2024","14.10.2024","2020","2020",1734,5
+"351","Share of holdings by age of farm managers and NUTS 2 region","ef_m_age_sh","dataset","27.05.2024","27.05.2024","2020","2020",2304,5
+"352","Share of holdings by sex of farm managers and NUTS 2 region","ef_m_sex_sh","dataset","27.05.2024","27.05.2024","2020","2020",1732,5
+"353","Main crops by NUTS 2 region","ef_lac_main","dataset","02.03.2021","10.01.2024","2013","2016",6557538,6
+"354","Cereals by NUTS 2 region","ef_lac_cereals","dataset","02.03.2021","10.01.2024","2013","2016",5520634,6
+"355","Dried crop pulses by NUTS 2 region","ef_lac_dpuls","dataset","02.03.2021","10.01.2024","2013","2016",1565676,6
+"356","Root crops by NUTS 2 region","ef_lac_rootcrop","dataset","02.03.2021","10.01.2024","2013","2016",2444610,6
+"357","Industrial crops by NUTS 2 region","ef_lac_indus","dataset","21.02.2020","10.01.2024","2013","2016",6316498,6
+"358","Vegetables by NUTS 2 region","ef_lac_vege","dataset","02.03.2021","10.01.2024","2013","2016",2925694,6
+"359","Flowers and ornamental plants by NUTS 2 region","ef_lac_flower","dataset","02.03.2021","10.01.2024","2013","2016",1273320,6
+"360","Plants harvested green and fallow land by NUTS 2 region","ef_lac_greenfal","dataset","21.02.2020","10.01.2024","2013","2016",3868744,6
+"361","Permanent grassland by area of the crop, utilised agricultural area, economic size and NUTS 2 region","ef_lus_pegrass","dataset","16.10.2023","10.01.2024","2010","2020",5327552,6
+"362","Under glass by NUTS 2 region","ef_lus_unglass","dataset","21.02.2020","10.01.2024","2013","2016",1401836,6
+"363","Special areas and other farmland by NUTS 2 region","ef_lus_sparea","dataset","21.02.2020","10.01.2024","2013","2016",1124174,6
+"364","Main farm land use by NUTS 2 region","ef_lus_main","dataset","10.01.2023","10.01.2024","2005","2020",36384888,5
+"365","Farms and hectares by type of crops, utilised agricultural area, economic size and NUTS 2 region","ef_lus_allcrops","dataset","27.02.2024","27.02.2024","2005","2020",27672874,5
+"366","Organic crops by utilised agricultural area, economic size of the farm and NUTS 2 region","ef_lus_org","dataset","07.05.2024","26.03.2024","2010","2020",4437846,5
+"367","Main livestock indicators by NUTS 2 region","ef_lsk_main","dataset","05.12.2023","10.01.2024","2005","2020",139355508,5
+"368","Bovine types by utilised agricultural area and share of fodder area, size classes of livestock and NUTS 2 region","ef_lsk_bovine","dataset","06.11.2023","10.01.2024","2010","2020",21961443,5
+"369","Sheep types by utilised agricultural area and share of fodder area, size classes of livestock and NUTS 2 region","ef_lsk_sheep","dataset","23.10.2023","10.01.2024","2010","2020",5775327,5
+"370","Poultry types by utilised agricultural area, size classes of livestock and NUTS 2 region","ef_lsk_poultry","dataset","20.11.2023","10.01.2024","2010","2020",2966718,5
+"371","Pig types by utilised agricultural area, size classes of livestock and NUTS 2 region","ef_lsk_pigs","dataset","16.10.2023","10.01.2024","2010","2020",1549068,5
+"372","Goat types by utilised agricultural area and share of fodder area, size classes of livestock and NUTS 2 region","ef_lsk_goats","dataset","16.10.2023","10.01.2024","2010","2020",5847489,5
+"373","Organic animal farming by utilised agricultural area, livestock unit, economic size of the farm and NUTS 2 region","ef_lsk_org","dataset","26.03.2024","26.03.2024","2010","2020",12124245,5
+"374","Main agricultural labour force by age and sex of the farm manager, farm type of the agricultural holding and NUTS 2 region","ef_lf_main","dataset","26.03.2024","10.01.2024","2010","2020",14875354,5
+"375","Agricultural labour force by size of the farm and NUTS 2 region","ef_lf_size","dataset","27.05.2024","27.05.2024","2010","2020",3794863,5
+"376","Agricultural labour force by legal entity, work status, sex of worker, economic size of the agricultural holding and NUTS 2 region","ef_lf_leg","dataset","29.05.2024","29.05.2024","2010","2020",3599080,5
+"377","Share of family farms by NUTS 2 region","ef_lf_fam_sh","dataset","28.05.2024","28.05.2024","2020","2020",3824,5
+"378","Soil cover by NUTS 2 region","ef_mp_soil","dataset","03.08.2020","10.01.2024","2010","2016",3238825,5
+"379","Share of holdings by training of farm manager and NUTS 2 region","ef_mp_training_sh","dataset","27.05.2024","27.05.2024","2020","2020",2286,5
+"380","Animal housing by type of bovine, utilised agricultural area, size classes of livestock units and NUTS 2 region","ef_ah_bovine","dataset","28.08.2024","28.08.2024","2010","2020",4106256,5
+"381","Animal housing by type of pigs, utilised agricultural area, size classes of livestock units and NUTS 2 region","ef_ah_pigs","dataset","16.07.2024","16.07.2024","2010","2020",5342401,5
+"382","Animal housing by type of poultry, utilised agricultural area, size classes of livestock units and NUTS 2 region","ef_ah_poultry","dataset","16.07.2024","16.07.2024","2010","2020",3088228,5
+"383","Farm indicators by other gainful activities related to the holder, utilized agricultural area, type and economic size of the farm and NUTS 2 region","ef_oga_main","dataset","15.04.2024","25.04.2024","2010","2020",41478018,5
+"384","Type of other gainful activities directly related to the agricultural holdings by age of the manager, utilised agricultural area, farm type and economic size by NUTS 2 region","ef_oga_type","dataset","31.08.2024","25.04.2024","2010","2020",15741556,5
+"385","Key farm variables: area, livestock (LSU), labour force and standard output (SO) by agricultural size of farm (UAA), legal status of holding and NUTS 2 region","ef_kvaareg","dataset","16.01.2017","10.01.2024","2005","2013",225387,6
+"386","Key variables: area, livestock (LSU), labour force and standard output (SO) by economic size of farm (SO in Euro), legal status of holding and NUTS 2 region","ef_kvecsleg","dataset","16.01.2017","10.01.2024","2005","2013",291960,6
+"387","Key variables: area, livestock (LSU), labour force and standard output (SO) by type of farming (2-digit) and NUTS 2 region","ef_kvftreg","dataset","16.01.2017","10.01.2024","2005","2013",215317,6
+"388","Land use: number of farms and areas of different crops by agricultural size of farm (UAA) and NUTS 2 region","ef_oluaareg","dataset","16.01.2017","10.01.2024","2005","2013",1595010,6
+"389","Land use: number of farms and areas of different crops by economic size of farm (SO in Euro) and NUTS 2 region","ef_oluecsreg","dataset","16.01.2017","10.01.2024","2005","2013",1866130,6
+"390","Livestock: number of farms and heads of animals of different types by agricultural size of farm (UAA) and NUTS 2 region","ef_olsaareg","dataset","16.01.2017","10.01.2024","2005","2013",595241,6
+"391","Livestock: number of farms and heads of animals by livestock units (LSU) of farm and NUTS 2 region","ef_olslsureg","dataset","16.01.2017","10.01.2024","2005","2013",589665,6
+"392","Livestock: number of farms and heads of animals by economic size of farm (SO in Euro) and NUTS 2 region","ef_olsecsreg","dataset","16.01.2017","10.01.2024","2005","2013",695956,6
+"393","Labour force: number of persons and farm work (AWU) by sex of workers and NUTS 2 region","ef_olfreg","dataset","16.01.2017","10.01.2024","2005","2013",38800,6
+"394","Permanent crops: number of farms and areas by size of permanent crop area and NUTS 2 region","ef_popermreg","dataset","16.01.2017","10.01.2024","2005","2013",427965,6
+"395","Irrigation: number of farms, areas and equipment by size of irrigated area and NUTS 2 region","ef_poirrig","dataset","19.04.2018","10.01.2024","2005","2013",210039,6
+"396","Organic farming: number of farms, areas with different crops and heads of different types of animals by agricultural size of farm (UAA) and NUTS 2 region","ef_mporganic","dataset","16.01.2017","10.01.2024","2003","2013",320160,6
+"397","Type of tenure: number of farms and areas by agricultural size of farm (UAA) and NUTS 2 region","ef_mptenure","dataset","16.01.2017","10.01.2024","2005","2013",92614,6
+"398","Type of tenure: number of farms and areas by economic size of farm (SO in Euro) and NUTS 2 region","ef_mptenurecs","dataset","16.01.2017","10.01.2024","2005","2013",109368,6
+"399","Key variables by legal status of holding, size of farm (UAA) and NUTS 2 region","ef_ov_kvaa","dataset","27.03.2009","21.12.2023","1990","2007",250844,7
+"400","Key variables by type of farming (2-digit) and NUTS 2 region","ef_ov_kvftreg","dataset","27.03.2009","21.12.2023","2000","2007",133474,7
+"401","Farmland: number of farms and areas by size of farm (UAA) and NUTS 2 region","ef_lu_ovcropaa","dataset","27.03.2009","21.12.2023","1990","2007",1969784,7
+"402","Farmland: number of farms and areas by economic size of farm (ESU) and NUTS 2 region","ef_lu_ovcropesu","dataset","27.03.2009","21.12.2023","1990","2007",1959788,7
+"403","Permanent crops: number of farms and areas by size of farm (UAA), size of permanent crop area and NUTS 2 region","ef_lu_pcreg","dataset","27.03.2009","21.12.2023","1990","2007",492194,7
+"404","Irrigation: number of farms, areas and equipment by size of farm (UAA) and NUTS 2 region","ef_lu_ofirrig","dataset","27.03.2009","21.12.2023","1990","2007",21949,7
+"405","Livestock: number of farms and heads by size of farm (UAA) and NUTS 2 region","ef_ls_ovaareg","dataset","27.03.2009","21.12.2023","1990","2007",761128,7
+"406","Livestock: number of farms and heads by livestock units (LSU) of farm and NUTS 2 region","ef_ls_ovlsureg","dataset","27.03.2009","21.12.2023","1990","2007",759761,7
+"407","Livestock: number of farms and heads by economic size of farm (ESU) and NUTS 2 region","ef_ls_ovesu","dataset","27.03.2009","21.12.2023","1990","2007",757142,7
+"408","Labour force: number of persons and farm work (AWU) by sex of worker, category of worker, legal status of holding, size of farm (UAA) and NUTS 2 region","ef_so_lfaa","dataset","14.04.2009","21.12.2023","1990","2007",1714420,7
+"409","Labour force: number of persons and farm work (AWU) by sex of worker, category of worker, legal status of holding, economic size of farm (ESU) and NUTS 2 region","ef_so_lfesu","dataset","14.04.2009","21.12.2023","1990","2007",1676077,7
+"410","Type of tenure: number of farms and areas by size of farm (UAA) and NUTS 2 region","ef_so_mptenure","dataset","27.03.2009","21.12.2023","1990","2007",111860,7
+"411","Organic farming: selected variables by size of farm (UAA) and NUTS 2 region","ef_so_mporg","dataset","17.04.2009","21.12.2023","2000","2007",98860,7
+"412","Economic accounts for agriculture by NUTS 2 region","agr_r_accts","dataset","22.02.2024","02.07.2024","1980","2022",4232840,5
+"413","Economic accounts for agriculture by NUTS 2 region (until 2012)","agr_r_accts_h","dataset","07.03.2016","02.07.2024","1973","2012",2320007,5
+"414","Crop production in EU standard humidity by NUTS 2 region","apro_cpshr","dataset","25.10.2024","01.07.2024","2000","2024",1494681,7
+"415","Crop production in national humidity by NUTS 2 region","apro_cpnhr","dataset","25.10.2024","01.07.2024","2000","2024",890728,7
+"416","Crop production by NUTS 2 region - historical data (1975-1999)","apro_cpnhr_h","dataset","01.08.2023","10.01.2024","1975","1999",898118,7
+"417","Production of cow's milk on farms by NUTS 2 region","agr_r_milkpr","dataset","07.10.2024","07.10.2024","1995","2023",11226,6
+"418","Animal populations by NUTS 2 region","agr_r_animal","dataset","17.10.2024","09.09.2024","1977","2024",422132,7
+"419","Area under wine-grape vine varieties broken down by vine variety, age of the vines and NUTS 2 region - Romania","vit_bs4_ro","dataset","28.03.2012","21.12.2023","2009","2009",2754,7
+"420","Share of main land types in utilised agricultural area (UAA) by NUTS 2 region","aei_ef_lu","dataset","14.11.2018","10.01.2024","2005","2016",5587,5
+"421","Share of irrigable and irrigated areas in utilised agricultural area (UAA) by NUTS 2 region","aei_ef_ir","dataset","11.03.2019","10.01.2024","2005","2016",2832,5
+"422","Share of main livestock types in total livestock units (LSU) by NUTS 2 region","aei_ef_ls","dataset","05.02.2019","10.01.2024","2005","2016",8782,5
+"423","Air transport of passengers by NUTS 2 region","tran_r_avpa_nm","dataset","05.05.2024","29.08.2024","1993","2022",22730,4
+"424","Air transport of freight by NUTS 2 region","tran_r_avgo_nm","dataset","05.05.2024","29.08.2024","1993","2022",21322,4
+"425","Maritime transport of passengers by NUTS 2 region","tran_r_mapa_nm","dataset","05.05.2024","29.08.2024","1997","2022",14817,4
+"426","Maritime transport of freight by NUTS 2 region","tran_r_mago_nm","dataset","05.05.2024","29.08.2024","1997","2022",15291,4
+"427","Railway transport - national and international railway passengers transport by loading/unloading NUTS 2 region","tran_r_rapa","dataset","09.06.2022","10.01.2024","2005","2020",72300,4
+"428","Railway transport - national and international railway goods transport by loading/unloading NUTS 2 region","tran_r_rago","dataset","04.07.2024","07.06.2024","2005","2020",78725,4
+"429","Stock of vehicles by category and NUTS 2 region","tran_r_vehst","dataset","01.10.2024","28.08.2024","1990","2022",130035,4
+"430","Maritime transport of passengers by NUTS 2 region (questionnaire)","tran_r_mapa_om","dataset","27.03.2009","29.08.2024","1978","2002",7266,4
+"431","Maritime transport of freight by NUTS 2 region (questionnaire)","tran_r_mago_om","dataset","27.03.2009","29.08.2024","1978","2002",11443,4
+"432","Air transport of passengers by NUTS 2 region (questionnaire)","tran_r_avpa_om","dataset","27.03.2009","14.10.2024","1978","2002",13811,4
+"433","Air transport of freight by NUTS 2 region (questionnaire)","tran_r_avgo_om","dataset","27.03.2009","29.08.2024","1978","2002",10487,4
+"434","Road, rail and navigable inland waterways networks by NUTS 2 region","tran_r_net","dataset","20.06.2024","28.08.2024","1990","2022",93318,3
+"435","Stock of vehicles by category and NUTS 2 region","tran_r_vehst","dataset","01.10.2024","28.08.2024","1990","2022",130035,3
+"436","Stock of electric vehicles by category and NUTS 2 region","tran_r_elvehst","dataset","06.05.2024","06.05.2024","2018","2022",9212,3
+"437","Victims in road accidents by NUTS 2 region","tran_r_acci","dataset","05.05.2024","05.05.2024","1990","2022",52849,3
+"438","Maritime transport of passengers by NUTS 2 region","tran_r_mapa_nm","dataset","05.05.2024","29.08.2024","1997","2022",14817,3
+"439","Maritime transport of freight by NUTS 2 region","tran_r_mago_nm","dataset","05.05.2024","29.08.2024","1997","2022",15291,3
+"440","Air transport of passengers by NUTS 2 region","tran_r_avpa_nm","dataset","05.05.2024","29.08.2024","1993","2022",22730,3
+"441","Air transport of freight by NUTS 2 region","tran_r_avgo_nm","dataset","05.05.2024","29.08.2024","1993","2022",21322,3
+"442","Railway transport - national and international railway goods transport by loading/unloading NUTS 2 region","tran_r_rago","dataset","04.07.2024","07.06.2024","2005","2020",78725,3
+"443","Railway transport - national and international railway passengers transport by loading/unloading NUTS 2 region","tran_r_rapa","dataset","09.06.2022","10.01.2024","2005","2020",72300,3
+"444","Number and capacity of recovery and disposal facilities by NUTS 2 region","env_wasfac","dataset","14.09.2022","10.01.2024","2004","2020",37609,5
+"445","GERD by sector of performance and NUTS 2 region","rd_e_gerdreg","dataset","30.09.2024","30.09.2024","1980","2022",282069,5
+"446","R&D personnel and researchers by sector of performance, sex and NUTS 2 region","rd_p_persreg","dataset","25.09.2024","24.09.2024","1980","2022",572111,5
+"447","Employment in technology and knowledge-intensive sectors by NUTS 2 region and sex (from 2008 onwards, NACE Rev. 2)","htec_emp_reg2","dataset","12.09.2024","24.04.2024","2008","2023",1400448,6
+"448","Employment in technology and knowledge-intensive sectors by NUTS 2 region and sex (1994-2008, NACE Rev. 1.1)","htec_emp_reg","dataset","15.02.2023","10.01.2024","1999","2008",654416,6
+"449","HRST by category and NUTS 2 region","hrst_st_rcat","dataset","12.09.2024","24.04.2024","1999","2023",167568,6
+"450","Use of computers and the internet by employees, by NACE Rev.2 activity and NUTS 2 region","isoc_r_ci_cm_pn2","dataset","24.09.2024","24.09.2024","2023","2023",1621,5
+"451","Internet access by NACE Rev.2 activity and NUTS 2 region","isoc_r_ci_in_en2","dataset","24.09.2024","24.09.2024","2023","2023",6653,5
+"452","Type of connections to the internet by NACE Rev.2 activity and NUTS 2 region","isoc_r_ci_it_en2","dataset","24.09.2024","24.09.2024","2023","2023",37332,5
+"453","Cloud computing services by NACE Rev.2 activity and NUTS 2 region","isoc_r_cicce_usen2","dataset","24.09.2024","24.09.2024","2023","2023",6392,5
+"454","Artificial intelligence by NACE Rev.2 activity and NUTS 2 region","isoc_r_eb_ain2","dataset","24.09.2024","24.09.2024","2023","2023",35354,5
+"455","Integration with customers/suppliers, supply chain management by NACE Rev.2 activity and NUTS 2 region","isoc_r_eb_icsn2","dataset","24.09.2024","24.09.2024","2023","2023",9834,5
+"456","Integration of internal processes by NACE Rev.2 activity and NUTS 2 region","isoc_r_eb_iipn2","dataset","24.09.2024","24.09.2024","2023","2023",11748,5
+"457","E-commerce sales of enterprises by NACE Rev.2 activity and NUTS 2 region","isoc_r_ec_eseln2","dataset","24.09.2024","24.09.2024","2023","2023",3226,5
+"458","Value of e-commerce sales by NACE Rev.2 activity and NUTS 2 region","isoc_r_ec_evaln2","dataset","24.09.2024","24.09.2024","2023","2023",1585,5
+"459","Data analytics by NACE Rev.2 activity and NUTS 2 region","isoc_r_eb_dan2","dataset","24.09.2024","24.09.2024","2023","2023",2974,5
+"460","Labour market demand for ICT specialists in online job advertisements, by NUTS 2 region - % of online job advertisements - experimental statistics","isoc_sk_oja1","dataset","21.08.2024","21.08.2024","2019-Q4","2024-Q1",5549,5
+"461","Labour market demand for ICT specialists in online job advertisements, by NUTS 2 region – percentage change Q/Q-4 – experimental statistics","isoc_sk_oja3","dataset","21.08.2024","21.08.2024","2020-Q1","2024-Q1",5106,5
+"462","Population by educational attainment level, sex, age, country of birth and NUTS 2 region (%)","edat_lfs_9917","dataset","12.09.2024","24.04.2024","2004","2023",1156358,6
+"463","Population by educational attainment level, sex, age, citizenship and NUTS 2 region (%)","edat_lfs_9918","dataset","12.09.2024","24.04.2024","2004","2023",1200530,6
+"464","Young people neither in employment nor in education and training by sex, age, country of birth and NUTS 2 region (NEET rates)","edat_lfse_37","dataset","12.09.2024","24.04.2024","2004","2023",520910,6
+"465","Young people neither in employment nor in education and training by sex, age, citizenship and NUTS 2 region (NEET rates)","edat_lfse_38","dataset","12.09.2024","24.04.2024","2004","2023",526863,6
+"466","Population by sex, age, citizenship, labour status and NUTS 2 region","lfst_r_lfsd2pwn","dataset","12.09.2024","24.04.2024","1999","2023",4890896,6
+"467","Population by sex, age, country of birth, labour status and NUTS 2 region","lfst_r_lfsd2pwc","dataset","12.09.2024","24.04.2024","1999","2023",4732810,6
+"468","Activity rates by sex, age, educational attainment level, citizenship and NUTS 2 region","lfst_r_lfp2actrtn","dataset","12.09.2024","24.04.2024","1999","2023",2778836,6
+"469","Activity rates by sex, age, educational attainment level, country of birth and NUTS 2 region","lfst_r_lfp2actrc","dataset","12.09.2024","24.04.2024","1999","2023",2720405,6
+"470","Unemployment by sex, age, country of birth and NUTS 2 region","lfst_r_lfu2gac","dataset","12.09.2024","24.04.2024","1999","2023",812409,6
+"471","Unemployment by sex, age, citizenship and NUTS 2 region","lfst_r_lfu2gan","dataset","12.09.2024","24.04.2024","1999","2023",852024,6
+"472","Unemployment rates by sex, age, country of birth and NUTS 2 region","lfst_r_lfur2gac","dataset","12.09.2024","24.04.2024","1999","2023",812409,6
+"473","Unemployment rates by sex, age, citizenship and NUTS 2 region","lfst_r_lfur2gan","dataset","12.09.2024","24.04.2024","1999","2023",852024,6
+"474","Employment rates by sex, age, educational attainment level, citizenship and NUTS 2 region","lfst_r_lfe2emprtn","dataset","12.09.2024","24.04.2024","1999","2023",2778836,6
+"475","Employment rates by sex, age, educational attainment level, country of birth and NUTS 2 region","lfst_r_lfe2emprc","dataset","12.09.2024","24.04.2024","1999","2023",2720405,6
+"476","Farm indicators by age and sex of the manager, economic size of the farm, utilised agricultural area and NUTS 2 region","ef_m_farmang","dataset","26.03.2024","10.01.2024","2010","2020",9550078,5
+"477","Animal populations by NUTS 2 region","agr_r_animal","dataset","17.10.2024","09.09.2024","1977","2024",422132,5
+"478","Land use overview by NUTS 2 region","lan_use_ovw","dataset","14.07.2021","10.01.2024","2009","2018",68238,5
+"479","Land cover overview by NUTS 2 region","lan_lcv_ovw","dataset","18.07.2022","10.01.2024","2009","2018",146448,5
+"480","Land cover for FAO Forest categories by NUTS 2 region","lan_lcv_fao","dataset","18.05.2021","10.01.2024","2009","2018",16342,5
+"481","Land use: number of farms and areas of different crops by agricultural size of farm (UAA) and NUTS 2 region","ef_oluaareg","dataset","16.01.2017","10.01.2024","2005","2013",1595010,5
+"482","Population by educational attainment level, sex and NUTS 2 region (%)","edat_lfse_04","dataset","12.09.2024","24.04.2024","2000","2023",612157,6
+"483","Early leavers from education and training by sex and NUTS 2 region","edat_lfse_16","dataset","12.09.2024","24.04.2024","2000","2023",32169,6
+"484","HRST by category and NUTS 2 region","hrst_st_rcat","dataset","12.09.2024","24.04.2024","1999","2023",167568,5
+"485","Youth employment rate by sex, age and NUTS 2 region","yth_empl_030","dataset","12.09.2024","24.04.2024","1999","2023",202086,6
+"486","Young people neither in employment nor in education and training by sex and NUTS 2 region (NEET rates)","edat_lfse_22","dataset","12.09.2024","24.04.2024","2000","2023",128547,6
+"487","Employment rates of young people not in education and training by sex, educational attainment level, years since completion of highest level of education and NUTS 2 region","edat_lfse_33","dataset","12.09.2024","24.04.2024","2000","2023",3852642,6
+"488","R&D personnel and researchers by sector of performance, sex and NUTS 2 region","rd_p_persreg","dataset","25.09.2024","24.09.2024","1980","2022",572111,5
+"489","Employment in technology and knowledge-intensive sectors by NUTS 2 region and sex (from 2008 onwards, NACE Rev. 2)","htec_emp_reg2","dataset","12.09.2024","24.04.2024","2008","2023",1400448,5
+"490","Participation rate in education and training (last 4 weeks) by NUTS 2 region","trng_lfse_04","dataset","12.09.2024","24.04.2024","2000","2023",31961,6
+"491","Distribution of pupils and students enrolled in general and vocational programmes by education level and NUTS 2 region","educ_uoe_enra13","dataset","26.07.2024","23.05.2024","2013","2022",32767,6
+"492","Ratio of the proportion of tertiary students over the proportion of the population by NUTS 1 and NUTS 2 region","educ_uoe_enrt05","dataset","26.07.2024","23.05.2024","2013","2022",3864,6
+"493","Students enrolled in tertiary education by education level, programme orientation, sex and NUTS 2 region","educ_uoe_enrt06","dataset","26.07.2024","23.05.2024","2013","2022",93176,6
+"494","Population structure indicators by NUTS 2 region","demo_r_pjanind2","dataset","05.11.2024","12.02.2024","1990","2023",690593,4
+"495","Pupils enrolled in early childhood education by sex and NUTS 2 region","educ_uoe_enrp03","dataset","26.07.2024","23.05.2024","2013","2022",34740,5
+"496","Pupils enrolled in primary education by sex and NUTS 2 region","educ_uoe_enrp06","dataset","26.07.2024","23.05.2024","2013","2022",13395,5
+"497","Pupils enrolled in lower-secondary education by programme orientation, sex and NUTS 2 region","educ_uoe_enrs03","dataset","26.07.2024","23.05.2024","2013","2022",39936,5
+"498","Pupils enrolled in upper secondary education by programme orientation, sex and NUTS 2 region","educ_uoe_enrs06","dataset","26.07.2024","23.05.2024","2013","2022",40176,5
+"499","Youth employment rate by sex, age and NUTS 2 region","yth_empl_030","dataset","12.09.2024","24.04.2024","1999","2023",202086,5
+"500","Youth unemployment rate by sex, age and NUTS 2 region","yth_empl_110","dataset","12.09.2024","24.04.2024","1999","2023",202086,5
+"501","Youth long-term unemployment rate (12 months or longer) by sex, age and NUTS 2 region","yth_empl_130","dataset","12.09.2024","02.07.2024","1999","2023",33681,5
+"502","Youth unemployment ratio by sex, age and NUTS 2 region","yth_empl_140","dataset","12.09.2024","24.04.2024","1999","2023",202086,5
+"503","Causes of death - crude death rate by NUTS 2 region of residence","hlth_cd_acdr2","dataset","25.04.2024","25.03.2024","2011","2021",6549928,5

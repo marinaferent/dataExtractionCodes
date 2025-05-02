@@ -1,0 +1,74 @@
+"","title","code","type","last.update.of.data","last.table.structure.change","data.start","data.end","values","hierarchy"
+"1","Ratio of the proportion of tertiary students over the proportion of the population by NUTS 1 and NUTS 2 region","educ_uoe_enrt05","dataset","26.07.2024","23.05.2024","2013","2022",3864,5
+"2","Employment in technology and knowledge-intensive sectors by NUTS 1 region and type of occupation (1994-2008, NACE Rev. 1.1)","htec_emp_risco","dataset","15.02.2023","10.01.2024","1999","2008",294702,5
+"3","Employment in technology and knowledge-intensive sectors by NUTS 1 region and type of occupation (from 2008 onwards, NACE Rev. 2)","htec_emp_risco2","dataset","12.09.2024","24.04.2024","2008","2023",616276,5
+"4","Employment in technology and knowledge-intensive sectors by NUTS 1 region and level of education (1994-2008, NACE Rev. 1.1)","htec_emp_risced","dataset","15.02.2023","10.01.2024","1999","2008",322090,5
+"5","Employment in technology and knowledge-intensive sectors by NUTS 1 region and level of education (from 2008 onwards, NACE Rev. 2)","htec_emp_risced2","dataset","12.09.2024","24.04.2024","2008","2023",662712,5
+"6","HRST by category, sex and NUTS 1 region","hrst_st_rsex","dataset","12.09.2024","24.04.2024","1999","2023",167883,5
+"7","HRST by category, age and NUTS 1 region","hrst_st_rage","dataset","12.09.2024","24.04.2024","1999","2023",335587,5
+"8","Employed HRST by category, NACE Rev. 1.1 activity and NUTS 1 region (1994 - 2007)","hrst_st_rsec","dataset","14.04.2021","10.01.2024","1999","2008",381086,5
+"9","Employed HRST by category, NACE Rev. 2 activity and NUTS 1 region","hrst_st_rsec2","dataset","12.09.2024","24.04.2024","2008","2023",787508,5
+"10","Short-stay accommodation offered via collaborative economy platforms by months, residence of the guest and NUTS 1 and NUTS 2 region - experimental statistics","tour_ce_omn12","dataset","03.10.2024","03.10.2024","2018","2024",280569,5
+"11","Guest nights spent at short-stay accommodation offered via collaborative economy platforms by NUTS 1 and NUTS 2 region, by world region of residence of the guest - experimental statistics","tour_ce_oaw","dataset","28.07.2024","28.07.2024","2018","2023",20710,5
+"12","Mean annual earnings by NUTS 1 region (enterprises with 10 employees or more) - NACE Rev. 1.1, C-O excluding L","earn_ses06_rann","dataset","03.02.2015","03.01.2024","2006","2006",100,5
+"13","Mean hourly earnings by NUTS 1 region (enterprises with 10 employees or more) - NACE Rev. 1.1, C-O excluding L","earn_ses06_rhr","dataset","03.02.2015","03.01.2024","2006","2006",91,5
+"14","Mean hourly earnings by NUTS 1 region (enterprises with 10 employees or more) - NACE Rev. 2, B-S excluding O","earn_ses10_rhr","dataset","09.06.2016","10.01.2024","2010","2010",612,5
+"15","Mean annual earnings by NUTS 1 region (enterprises with 10 employees or more) - NACE Rev. 2, B-S excluding O","earn_ses10_rann","dataset","23.02.2016","10.01.2024","2010","2010",102,5
+"16","Labour cost, wages and salaries, direct remuneration by NACE Rev. 2 activity and NUTS 1 region","lc_rcost_r2","dataset","05.10.2023","10.01.2024","2008","2020",952914,5
+"17","Structure of labour cost by NACE Rev. 2 activity and NUTS 1 region - % of total cost","lc_rstruc_r2","dataset","05.10.2023","10.01.2024","2008","2020",615298,5
+"18","Number of employees and hours worked, by working time, NACE Rev. 2 activity and NUTS 1 region","lc_rnum1_r2","dataset","05.10.2023","10.01.2024","2008","2020",453801,5
+"19","Average hours worked per employee, by working time, NACE Rev. 2 activity and NUTS 1 region","lc_rnum2_r2","dataset","05.10.2023","10.01.2024","2008","2020",173565,5
+"20","Number of statistical units, by NACE Rev. 2 activity and NUTS 1 region","lc_rstu_r2","dataset","01.12.2022","10.01.2024","2008","2020",78698,5
+"21","Labour cost, wages and salaries, direct remuneration by NACE Rev. 1.1 activity and NUTS 1 region - LCS survey 2004","lc_r04cost","dataset","09.03.2011","07.06.2024","2004","2004",170572,5
+"22","Structure of labour cost by NACE Rev. 1.1 activity and NUTS 1 region - % of total cost, LCS survey 2004","lc_r04struc","dataset","09.03.2011","07.06.2024","2004","2004",75156,5
+"23","Number of employees and hours worked, by working time, NACE Rev. 1.1 activity and NUTS 1 region - LCS survey 2004","lc_r04num1","dataset","09.03.2011","07.06.2024","2004","2004",53684,5
+"24","Average hours worked per employee, by working time, NACE Rev. 1.1 activity and NUTS 1 region - LCS survey 2004","lc_r04num2","dataset","09.03.2011","07.06.2024","2004","2004",21948,5
+"25","Number of statistical units selected for the survey, by NACE Rev. 1.1 activity and NUTS 1 region - LCS survey 2004","lc_r04stu","dataset","09.03.2011","07.06.2024","2004","2004",8154,5
+"26","Labour cost, wages and salaries, direct remuneration by NACE Rev. 1.1 activity and NUTS 1 region - LCS survey 2000","lc_r00cost","dataset","27.03.2009","14.10.2024","2000","2000",139464,5
+"27","Structure of labour cost by NACE Rev. 1.1 activity and NUTS 1 region - % of total cost, LCS survey 2000","lc_r00struc","dataset","27.03.2009","14.10.2024","2000","2000",102746,5
+"28","Number of employees and hours worked, by working time, NACE Rev. 1.1 activity and NUTS 1 region - LCS survey 2000","lc_r00num1","dataset","27.03.2009","14.10.2024","2000","2000",47375,5
+"29","Average hours worked per employee, by working time, NACE Rev. 1.1 activity and NUTS 1 region - LCS survey 2000","lc_r00num2","dataset","27.03.2009","14.10.2024","2000","2000",18965,5
+"30","Number of statistical units selected for the survey, by NACE Rev. 1.1 activity and NUTS 1 region - LCS survey 2000","lc_r00stu","dataset","27.03.2009","14.10.2024","2000","2000",6014,5
+"31","Ratio of the proportion of tertiary students over the proportion of the population by NUTS 1 and NUTS 2 region","educ_uoe_enrt05","dataset","26.07.2024","23.05.2024","2013","2022",3864,6
+"32","Mean hourly earnings by NUTS 1 region (enterprises with 10 employees or more) - NACE Rev. 2, B-S excluding O","earn_ses18_rhr","dataset","04.08.2021","10.01.2024","2018","2018",997,6
+"33","Mean annual earnings by NUTS 1 region (enterprises with 10 employees or more) - NACE Rev. 2, B-S excluding O","earn_ses18_rann","dataset","04.08.2021","10.01.2024","2018","2018",444,6
+"34","Mean hourly earnings by NUTS 1 region (enterprises with 10 employees or more) - NACE Rev. 2, B-S excluding O","earn_ses14_rhr","dataset","13.10.2020","10.01.2024","2014","2014",930,6
+"35","Mean annual earnings by NUTS 1 region (enterprises with 10 employees or more) - NACE Rev. 2, B-S excluding O","earn_ses14_rann","dataset","13.10.2020","10.01.2024","2014","2014",416,6
+"36","Mean hourly earnings by NUTS 1 region (enterprises with 10 employees or more) - NACE Rev. 2, B-S excluding O","earn_ses10_rhr","dataset","09.06.2016","10.01.2024","2010","2010",612,6
+"37","Mean annual earnings by NUTS 1 region (enterprises with 10 employees or more) - NACE Rev. 2, B-S excluding O","earn_ses10_rann","dataset","23.02.2016","10.01.2024","2010","2010",102,6
+"38","Mean hourly earnings by NUTS 1 region (enterprises with 10 employees or more) - NACE Rev. 1.1, C-O excluding L","earn_ses06_rhr","dataset","03.02.2015","03.01.2024","2006","2006",91,6
+"39","Mean annual earnings by NUTS 1 region (enterprises with 10 employees or more) - NACE Rev. 1.1, C-O excluding L","earn_ses06_rann","dataset","03.02.2015","03.01.2024","2006","2006",100,6
+"40","Labour cost, wages and salaries, direct remuneration by NACE Rev. 2 activity and NUTS 1 region","lc_rcost_r2","dataset","05.10.2023","10.01.2024","2008","2020",952914,6
+"41","Structure of labour cost by NACE Rev. 2 activity and NUTS 1 region - % of total cost","lc_rstruc_r2","dataset","05.10.2023","10.01.2024","2008","2020",615298,6
+"42","Number of employees and hours worked, by working time, NACE Rev. 2 activity and NUTS 1 region","lc_rnum1_r2","dataset","05.10.2023","10.01.2024","2008","2020",453801,6
+"43","Average hours worked per employee, by working time, NACE Rev. 2 activity and NUTS 1 region","lc_rnum2_r2","dataset","05.10.2023","10.01.2024","2008","2020",173565,6
+"44","Number of statistical units, by NACE Rev. 2 activity and NUTS 1 region","lc_rstu_r2","dataset","01.12.2022","10.01.2024","2008","2020",78698,6
+"45","Labour cost, wages and salaries, direct remuneration by NACE Rev. 1.1 activity and NUTS 1 region - LCS survey 2004","lc_r04cost","dataset","09.03.2011","07.06.2024","2004","2004",170572,6
+"46","Structure of labour cost by NACE Rev. 1.1 activity and NUTS 1 region - % of total cost, LCS survey 2004","lc_r04struc","dataset","09.03.2011","07.06.2024","2004","2004",75156,6
+"47","Number of employees and hours worked, by working time, NACE Rev. 1.1 activity and NUTS 1 region - LCS survey 2004","lc_r04num1","dataset","09.03.2011","07.06.2024","2004","2004",53684,6
+"48","Average hours worked per employee, by working time, NACE Rev. 1.1 activity and NUTS 1 region - LCS survey 2004","lc_r04num2","dataset","09.03.2011","07.06.2024","2004","2004",21948,6
+"49","Number of statistical units selected for the survey, by NACE Rev. 1.1 activity and NUTS 1 region - LCS survey 2004","lc_r04stu","dataset","09.03.2011","07.06.2024","2004","2004",8154,6
+"50","Labour cost, wages and salaries, direct remuneration by NACE Rev. 1.1 activity and NUTS 1 region - LCS survey 2000","lc_r00cost","dataset","27.03.2009","14.10.2024","2000","2000",139464,6
+"51","Structure of labour cost by NACE Rev. 1.1 activity and NUTS 1 region - % of total cost, LCS survey 2000","lc_r00struc","dataset","27.03.2009","14.10.2024","2000","2000",102746,6
+"52","Number of employees and hours worked, by working time, NACE Rev. 1.1 activity and NUTS 1 region - LCS survey 2000","lc_r00num1","dataset","27.03.2009","14.10.2024","2000","2000",47375,6
+"53","Average hours worked per employee, by working time, NACE Rev. 1.1 activity and NUTS 1 region - LCS survey 2000","lc_r00num2","dataset","27.03.2009","14.10.2024","2000","2000",18965,6
+"54","Number of statistical units selected for the survey, by NACE Rev. 1.1 activity and NUTS 1 region - LCS survey 2000","lc_r00stu","dataset","27.03.2009","14.10.2024","2000","2000",6014,6
+"55","Short-stay accommodation offered via collaborative economy platforms by months, residence of the guest and NUTS 1 and NUTS 2 region - experimental statistics","tour_ce_omn12","dataset","03.10.2024","03.10.2024","2018","2024",280569,5
+"56","Guest nights spent at short-stay accommodation offered via collaborative economy platforms by NUTS 1 and NUTS 2 region, by world region of residence of the guest - experimental statistics","tour_ce_oaw","dataset","28.07.2024","28.07.2024","2018","2023",20710,5
+"57","Employment in technology and knowledge-intensive sectors by NUTS 1 region and type of occupation (from 2008 onwards, NACE Rev. 2)","htec_emp_risco2","dataset","12.09.2024","24.04.2024","2008","2023",616276,6
+"58","Employment in technology and knowledge-intensive sectors by NUTS 1 region and type of occupation (1994-2008, NACE Rev. 1.1)","htec_emp_risco","dataset","15.02.2023","10.01.2024","1999","2008",294702,6
+"59","Employment in technology and knowledge-intensive sectors by NUTS 1 region and level of education (from 2008 onwards, NACE Rev. 2)","htec_emp_risced2","dataset","12.09.2024","24.04.2024","2008","2023",662712,6
+"60","Employment in technology and knowledge-intensive sectors by NUTS 1 region and level of education (1994-2008, NACE Rev. 1.1)","htec_emp_risced","dataset","15.02.2023","10.01.2024","1999","2008",322090,6
+"61","Employed HRST by category, NACE Rev. 2 activity and NUTS 1 region","hrst_st_rsec2","dataset","12.09.2024","24.04.2024","2008","2023",787508,6
+"62","Employed HRST by category, NACE Rev. 1.1 activity and NUTS 1 region (1994 - 2007)","hrst_st_rsec","dataset","14.04.2021","10.01.2024","1999","2008",381086,6
+"63","HRST by category, sex and NUTS 1 region","hrst_st_rsex","dataset","12.09.2024","24.04.2024","1999","2023",167883,6
+"64","HRST by category, age and NUTS 1 region","hrst_st_rage","dataset","12.09.2024","24.04.2024","1999","2023",335587,6
+"65","Employed HRST by category, NACE Rev. 2 activity and NUTS 1 region","hrst_st_rsec2","dataset","12.09.2024","24.04.2024","2008","2023",787508,6
+"66","Employed HRST by category, NACE Rev. 1.1 activity and NUTS 1 region (1994 - 2007)","hrst_st_rsec","dataset","14.04.2021","10.01.2024","1999","2008",381086,6
+"67","HRST by category, sex and NUTS 1 region","hrst_st_rsex","dataset","12.09.2024","24.04.2024","1999","2023",167883,5
+"68","HRST by category, age and NUTS 1 region","hrst_st_rage","dataset","12.09.2024","24.04.2024","1999","2023",335587,5
+"69","Employment in technology and knowledge-intensive sectors by NUTS 1 region and type of occupation (from 2008 onwards, NACE Rev. 2)","htec_emp_risco2","dataset","12.09.2024","24.04.2024","2008","2023",616276,5
+"70","Employment in technology and knowledge-intensive sectors by NUTS 1 region and level of education (from 2008 onwards, NACE Rev. 2)","htec_emp_risced2","dataset","12.09.2024","24.04.2024","2008","2023",662712,5
+"71","Employed HRST by category, NACE Rev. 2 activity and NUTS 1 region","hrst_st_rsec2","dataset","12.09.2024","24.04.2024","2008","2023",787508,5
+"72","Employed HRST by category, NACE Rev. 2 activity and NUTS 1 region","hrst_st_rsec2","dataset","12.09.2024","24.04.2024","2008","2023",787508,5
+"73","Ratio of the proportion of tertiary students over the proportion of the population by NUTS 1 and NUTS 2 region","educ_uoe_enrt05","dataset","26.07.2024","23.05.2024","2013","2022",3864,6
